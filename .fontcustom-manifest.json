@@ -1,0 +1,114 @@
+{
+  "checksum": {
+    "previous": "1e01eb9f147fd32110cba6386195c4242565dfc5193a81a2e5f0220316c99c0b",
+    "current": "1e01eb9f147fd32110cba6386195c4242565dfc5193a81a2e5f0220316c99c0b"
+  },
+  "fonts": [
+    "fonts/fontboomi.ttf",
+    "fonts/fontboomi.svg",
+    "fonts/fontboomi.woff",
+    "fonts/fontboomi.eot"
+  ],
+  "glyphs": {
+    "cloud-distribution": {
+      "codepoint": 61696,
+      "source": "src/cloud-distribution.svg"
+    },
+    "competition": {
+      "codepoint": 61697,
+      "source": "src/competition.svg"
+    },
+    "draw": {
+      "codepoint": 61698,
+      "source": "src/draw.svg"
+    },
+    "energy-b2b-b2c": {
+      "codepoint": 61699,
+      "source": "src/energy-b2b-b2c.svg"
+    },
+    "energy-efficiency": {
+      "codepoint": 61700,
+      "source": "src/energy-efficiency.svg"
+    },
+    "energy-power-modernization": {
+      "codepoint": 61701,
+      "source": "src/energy-power-modernization.svg"
+    },
+    "engage": {
+      "codepoint": 61702,
+      "source": "src/engage.svg"
+    },
+    "how-sell": {
+      "codepoint": 61703,
+      "source": "src/how-sell.svg"
+    },
+    "multi-user-workflow": {
+      "codepoint": 61704,
+      "source": "src/multi-user-workflow.svg"
+    },
+    "operations": {
+      "codepoint": 61705,
+      "source": "src/operations.svg"
+    },
+    "partners": {
+      "codepoint": 61706,
+      "source": "src/partners.svg"
+    },
+    "presentations": {
+      "codepoint": 61707,
+      "source": "src/presentations.svg"
+    },
+    "publish": {
+      "codepoint": 61708,
+      "source": "src/publish.svg"
+    },
+    "search": {
+      "codepoint": 61709,
+      "source": "src/search.svg"
+    },
+    "social": {
+      "codepoint": 61710,
+      "source": "src/social.svg"
+    },
+    "time-to-value": {
+      "codepoint": 61711,
+      "source": "src/time-to-value.svg"
+    },
+    "what-sell": {
+      "codepoint": 61712,
+      "source": "src/what-sell.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": "fontcustom.yml",
+    "css_selector": ".fb-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "fontboomi",
+    "force": false,
+    "input": {
+      "templates": "src",
+      "vectors": "src"
+    },
+    "no_hash": true,
+    "output": {
+      "css": "css",
+      "fonts": "fonts",
+      "preview": "docs"
+    },
+    "preprocessor_path": null,
+    "quiet": false,
+    "templates": [
+      "css",
+      "preview"
+    ]
+  },
+  "templates": [
+    "css/fontboomi.css",
+    "docs/fontboomi-preview.html"
+  ]
+}
