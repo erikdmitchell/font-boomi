@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Preview](fontboomi-preview).
+[Preview](fontboomi-preview)
 
 
 # [](#header-1)Header 1
