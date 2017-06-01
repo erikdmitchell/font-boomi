@@ -6,16 +6,8 @@ Coming soon...
 
 ## Changelog
 
-- 2.0.0
-
-* Added 15 new icons
-* Renamed multi-user-workflow > team
-* Renamed what-sell > cloud-outline
-* Renamed how-sell > sales-funnel
-* Renamed energy-power-modernization > transmission-tower
-
+- [2.0.0](https://github.com/erikdmitchell/font-boomi/pull/1)
 - 1.0.0
-* Initial version
 
 ## Contributing
 
