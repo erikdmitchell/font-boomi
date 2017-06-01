@@ -38,6 +38,7 @@
 .fb-publish:before,
 .fb-search:before,
 .fb-social:before,
+.fb-target:before,
 .fb-time-to-value:before,
 .fb-what-sell:before {
   display: inline-block;
@@ -69,5 +70,6 @@
 .fb-publish:before { content: "\f10c"; }
 .fb-search:before { content: "\f10d"; }
 .fb-social:before { content: "\f10e"; }
+.fb-target:before { content: "\f111"; }
 .fb-time-to-value:before { content: "\f10f"; }
 .fb-what-sell:before { content: "\f110"; }
