@@ -26,7 +26,6 @@
 .fb-appreciate:before,
 .fb-brainstorm:before,
 .fb-checklist:before,
-.fb-cloud-distribution:before,
 .fb-colud-distribution:before,
 .fb-colud-outline:before,
 .fb-colud-storage:before,
@@ -77,7 +76,6 @@
 .fb-appreciate:before { content: "\f112"; }
 .fb-brainstorm:before { content: "\f113"; }
 .fb-checklist:before { content: "\f114"; }
-.fb-cloud-distribution:before { content: "\f100"; }
 .fb-colud-distribution:before { content: "\f115"; }
 .fb-colud-outline:before { content: "\f116"; }
 .fb-colud-storage:before { content: "\f117"; }
