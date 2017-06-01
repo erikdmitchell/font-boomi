@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "4f92d8fd10b20835f3745a112a840e8cbe9112b593e560ea0632e0d8283829fc",
-    "current": "4f92d8fd10b20835f3745a112a840e8cbe9112b593e560ea0632e0d8283829fc"
+    "previous": "477b20c5ed724a7bbc523e081bcd7fe1d4bd2242de01a7370c4eb8e1c5b27381",
+    "current": "477b20c5ed724a7bbc523e081bcd7fe1d4bd2242de01a7370c4eb8e1c5b27381"
   },
   "fonts": [
     "fonts/fontboomi.ttf",
@@ -10,9 +10,37 @@
     "fonts/fontboomi.eot"
   ],
   "glyphs": {
+    "appreciate": {
+      "codepoint": 61714,
+      "source": "src/appreciate.svg"
+    },
+    "brainstorm": {
+      "codepoint": 61715,
+      "source": "src/brainstorm.svg"
+    },
+    "checklist": {
+      "codepoint": 61716,
+      "source": "src/checklist.svg"
+    },
     "cloud-distribution": {
       "codepoint": 61696,
       "source": "src/cloud-distribution.svg"
+    },
+    "colud-distribution": {
+      "codepoint": 61717,
+      "source": "src/colud-distribution.svg"
+    },
+    "colud-outline": {
+      "codepoint": 61718,
+      "source": "src/colud-outline.svg"
+    },
+    "colud-storage": {
+      "codepoint": 61719,
+      "source": "src/colud-storage.svg"
+    },
+    "communication": {
+      "codepoint": 61720,
+      "source": "src/communication.svg"
     },
     "competition": {
       "codepoint": 61697,
@@ -30,21 +58,21 @@
       "codepoint": 61700,
       "source": "src/energy-efficiency.svg"
     },
-    "energy-power-modernization": {
-      "codepoint": 61701,
-      "source": "src/energy-power-modernization.svg"
-    },
     "engage": {
       "codepoint": 61702,
       "source": "src/engage.svg"
     },
-    "how-sell": {
-      "codepoint": 61703,
-      "source": "src/how-sell.svg"
+    "factory": {
+      "codepoint": 61721,
+      "source": "src/factory.svg"
     },
-    "multi-user-workflow": {
-      "codepoint": 61704,
-      "source": "src/multi-user-workflow.svg"
+    "interaction": {
+      "codepoint": 61722,
+      "source": "src/interaction.svg"
+    },
+    "internet-of-things": {
+      "codepoint": 61723,
+      "source": "src/internet-of-things.svg"
     },
     "operations": {
       "codepoint": 61705,
@@ -54,13 +82,37 @@
       "codepoint": 61706,
       "source": "src/partners.svg"
     },
+    "planning": {
+      "codepoint": 61724,
+      "source": "src/planning.svg"
+    },
+    "planning-sheet": {
+      "codepoint": 61725,
+      "source": "src/planning-sheet.svg"
+    },
+    "power-plant": {
+      "codepoint": 61726,
+      "source": "src/power-plant.svg"
+    },
     "presentations": {
       "codepoint": 61707,
       "source": "src/presentations.svg"
     },
+    "product-release": {
+      "codepoint": 61727,
+      "source": "src/product-release.svg"
+    },
+    "professional-skills": {
+      "codepoint": 61728,
+      "source": "src/professional-skills.svg"
+    },
     "publish": {
       "codepoint": 61708,
       "source": "src/publish.svg"
+    },
+    "sales-funnel": {
+      "codepoint": 61729,
+      "source": "src/sales-funnel.svg"
     },
     "search": {
       "codepoint": 61709,
@@ -70,17 +122,41 @@
       "codepoint": 61710,
       "source": "src/social.svg"
     },
+    "spreadsheet": {
+      "codepoint": 61730,
+      "source": "src/spreadsheet.svg"
+    },
+    "sync": {
+      "codepoint": 61731,
+      "source": "src/sync.svg"
+    },
     "target": {
       "codepoint": 61713,
       "source": "src/target.svg"
+    },
+    "team": {
+      "codepoint": 61732,
+      "source": "src/team.svg"
+    },
+    "testimonial": {
+      "codepoint": 61733,
+      "source": "src/testimonial.svg"
     },
     "time-to-value": {
       "codepoint": 61711,
       "source": "src/time-to-value.svg"
     },
-    "what-sell": {
-      "codepoint": 61712,
-      "source": "src/what-sell.svg"
+    "transmission-tower": {
+      "codepoint": 61734,
+      "source": "src/transmission-tower.svg"
+    },
+    "usability-evaluation": {
+      "codepoint": 61735,
+      "source": "src/usability-evaluation.svg"
+    },
+    "wireframe": {
+      "codepoint": 61736,
+      "source": "src/wireframe.svg"
     }
   },
   "options": {

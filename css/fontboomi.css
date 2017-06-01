@@ -23,24 +23,43 @@
 [data-icon]:before { content: attr(data-icon); }
 
 [data-icon]:before,
+.fb-appreciate:before,
+.fb-brainstorm:before,
+.fb-checklist:before,
 .fb-cloud-distribution:before,
+.fb-colud-distribution:before,
+.fb-colud-outline:before,
+.fb-colud-storage:before,
+.fb-communication:before,
 .fb-competition:before,
 .fb-draw:before,
 .fb-energy-b2b-b2c:before,
 .fb-energy-efficiency:before,
-.fb-energy-power-modernization:before,
 .fb-engage:before,
-.fb-how-sell:before,
-.fb-multi-user-workflow:before,
+.fb-factory:before,
+.fb-interaction:before,
+.fb-internet-of-things:before,
 .fb-operations:before,
 .fb-partners:before,
+.fb-planning:before,
+.fb-planning-sheet:before,
+.fb-power-plant:before,
 .fb-presentations:before,
+.fb-product-release:before,
+.fb-professional-skills:before,
 .fb-publish:before,
+.fb-sales-funnel:before,
 .fb-search:before,
 .fb-social:before,
+.fb-spreadsheet:before,
+.fb-sync:before,
 .fb-target:before,
+.fb-team:before,
+.fb-testimonial:before,
 .fb-time-to-value:before,
-.fb-what-sell:before {
+.fb-transmission-tower:before,
+.fb-usability-evaluation:before,
+.fb-wireframe:before {
   display: inline-block;
   font-family: "fontboomi";
   font-style: normal;
@@ -55,21 +74,40 @@
   font-smoothing: antialiased;
 }
 
+.fb-appreciate:before { content: "\f112"; }
+.fb-brainstorm:before { content: "\f113"; }
+.fb-checklist:before { content: "\f114"; }
 .fb-cloud-distribution:before { content: "\f100"; }
+.fb-colud-distribution:before { content: "\f115"; }
+.fb-colud-outline:before { content: "\f116"; }
+.fb-colud-storage:before { content: "\f117"; }
+.fb-communication:before { content: "\f118"; }
 .fb-competition:before { content: "\f101"; }
 .fb-draw:before { content: "\f102"; }
 .fb-energy-b2b-b2c:before { content: "\f103"; }
 .fb-energy-efficiency:before { content: "\f104"; }
-.fb-energy-power-modernization:before { content: "\f105"; }
 .fb-engage:before { content: "\f106"; }
-.fb-how-sell:before { content: "\f107"; }
-.fb-multi-user-workflow:before { content: "\f108"; }
+.fb-factory:before { content: "\f119"; }
+.fb-interaction:before { content: "\f11a"; }
+.fb-internet-of-things:before { content: "\f11b"; }
 .fb-operations:before { content: "\f109"; }
 .fb-partners:before { content: "\f10a"; }
+.fb-planning:before { content: "\f11c"; }
+.fb-planning-sheet:before { content: "\f11d"; }
+.fb-power-plant:before { content: "\f11e"; }
 .fb-presentations:before { content: "\f10b"; }
+.fb-product-release:before { content: "\f11f"; }
+.fb-professional-skills:before { content: "\f120"; }
 .fb-publish:before { content: "\f10c"; }
+.fb-sales-funnel:before { content: "\f121"; }
 .fb-search:before { content: "\f10d"; }
 .fb-social:before { content: "\f10e"; }
+.fb-spreadsheet:before { content: "\f122"; }
+.fb-sync:before { content: "\f123"; }
 .fb-target:before { content: "\f111"; }
+.fb-team:before { content: "\f124"; }
+.fb-testimonial:before { content: "\f125"; }
 .fb-time-to-value:before { content: "\f10f"; }
-.fb-what-sell:before { content: "\f110"; }
+.fb-transmission-tower:before { content: "\f126"; }
+.fb-usability-evaluation:before { content: "\f127"; }
+.fb-wireframe:before { content: "\f128"; }
