@@ -6,7 +6,7 @@ Coming soon...
 
 ## Changelog
 
-- [2.1.0]()
+- [2.1.0](https://github.com/erikdmitchell/font-boomi/pull/2)
 - [2.0.0](https://github.com/erikdmitchell/font-boomi/pull/1)
 - 1.0.0
 
