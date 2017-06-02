@@ -25,10 +25,11 @@
 [data-icon]:before,
 .fb-appreciate:before,
 .fb-brainstorm:before,
+.fb-build:before,
 .fb-checklist:before,
-.fb-colud-distribution:before,
-.fb-colud-outline:before,
-.fb-colud-storage:before,
+.fb-cloud-distribution:before,
+.fb-cloud-outline:before,
+.fb-cloud-storage:before,
 .fb-communication:before,
 .fb-competition:before,
 .fb-draw:before,
@@ -75,10 +76,11 @@
 
 .fb-appreciate:before { content: "\f112"; }
 .fb-brainstorm:before { content: "\f113"; }
+.fb-build:before { content: "\f129"; }
 .fb-checklist:before { content: "\f114"; }
-.fb-colud-distribution:before { content: "\f115"; }
-.fb-colud-outline:before { content: "\f116"; }
-.fb-colud-storage:before { content: "\f117"; }
+.fb-cloud-distribution:before { content: "\f12a"; }
+.fb-cloud-outline:before { content: "\f12b"; }
+.fb-cloud-storage:before { content: "\f12c"; }
 .fb-communication:before { content: "\f118"; }
 .fb-competition:before { content: "\f101"; }
 .fb-draw:before { content: "\f102"; }

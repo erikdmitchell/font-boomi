@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "05c3f27872759a6051702831d4dcf8c76fc19c812808d1928dde60566782a191",
-    "current": "05c3f27872759a6051702831d4dcf8c76fc19c812808d1928dde60566782a191"
+    "previous": "f8b88ea23998e6cb184f06bdabe28f23e01fb2257d82f3ab09f59e1b8436e3cd",
+    "current": "f8b88ea23998e6cb184f06bdabe28f23e01fb2257d82f3ab09f59e1b8436e3cd"
   },
   "fonts": [
     "fonts/fontboomi.ttf",
@@ -18,21 +18,25 @@
       "codepoint": 61715,
       "source": "src/brainstorm.svg"
     },
+    "build": {
+      "codepoint": 61737,
+      "source": "src/build.svg"
+    },
     "checklist": {
       "codepoint": 61716,
       "source": "src/checklist.svg"
     },
-    "colud-distribution": {
-      "codepoint": 61717,
-      "source": "src/colud-distribution.svg"
+    "cloud-distribution": {
+      "codepoint": 61738,
+      "source": "src/cloud-distribution.svg"
     },
-    "colud-outline": {
-      "codepoint": 61718,
-      "source": "src/colud-outline.svg"
+    "cloud-outline": {
+      "codepoint": 61739,
+      "source": "src/cloud-outline.svg"
     },
-    "colud-storage": {
-      "codepoint": 61719,
-      "source": "src/colud-storage.svg"
+    "cloud-storage": {
+      "codepoint": 61740,
+      "source": "src/cloud-storage.svg"
     },
     "communication": {
       "codepoint": 61720,
