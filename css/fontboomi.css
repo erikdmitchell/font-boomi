@@ -26,6 +26,7 @@
 .fb-appreciate:before,
 .fb-brainstorm:before,
 .fb-build:before,
+.fb-calendar:before,
 .fb-checklist:before,
 .fb-cloud-distribution:before,
 .fb-cloud-outline:before,
@@ -77,6 +78,7 @@
 .fb-appreciate:before { content: "\f112"; }
 .fb-brainstorm:before { content: "\f113"; }
 .fb-build:before { content: "\f129"; }
+.fb-calendar:before { content: "\f12d"; }
 .fb-checklist:before { content: "\f114"; }
 .fb-cloud-distribution:before { content: "\f12a"; }
 .fb-cloud-outline:before { content: "\f12b"; }
