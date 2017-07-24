@@ -63,6 +63,7 @@
 .fb-team:before,
 .fb-testimonial:before,
 .fb-time-to-value:before,
+.fb-training-steps:before,
 .fb-transmission-tower:before,
 .fb-usability-evaluation:before,
 .fb-wireframe:before {
@@ -120,6 +121,7 @@
 .fb-team:before { content: "\f124"; }
 .fb-testimonial:before { content: "\f125"; }
 .fb-time-to-value:before { content: "\f10f"; }
+.fb-training-steps:before { content: "\f133"; }
 .fb-transmission-tower:before { content: "\f126"; }
 .fb-usability-evaluation:before { content: "\f127"; }
 .fb-wireframe:before { content: "\f128"; }
