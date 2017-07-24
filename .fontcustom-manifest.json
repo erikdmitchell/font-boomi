@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "8eda8dd6bd1bf79bea2e4603204e90df7ec0d6e9827c4fc4fe924640ed502120",
-    "current": "8eda8dd6bd1bf79bea2e4603204e90df7ec0d6e9827c4fc4fe924640ed502120"
+    "previous": "87cdcea3cd1fe3511b57f32c2e11acc31d5e4db99e590696ef8db7b82bdb6561",
+    "current": "87cdcea3cd1fe3511b57f32c2e11acc31d5e4db99e590696ef8db7b82bdb6561"
   },
   "fonts": [
     "fonts/fontboomi.ttf",
@@ -10,9 +10,17 @@
     "fonts/fontboomi.eot"
   ],
   "glyphs": {
+    "administrator": {
+      "codepoint": 61742,
+      "source": "src/administrator.svg"
+    },
     "appreciate": {
       "codepoint": 61714,
       "source": "src/appreciate.svg"
+    },
+    "architect": {
+      "codepoint": 61743,
+      "source": "src/architect.svg"
     },
     "brainstorm": {
       "codepoint": 61715,
@@ -50,9 +58,17 @@
       "codepoint": 61697,
       "source": "src/competition.svg"
     },
+    "developer": {
+      "codepoint": 61744,
+      "source": "src/developer.svg"
+    },
     "draw": {
       "codepoint": 61698,
       "source": "src/draw.svg"
+    },
+    "edi": {
+      "codepoint": 61745,
+      "source": "src/edi.svg"
     },
     "energy-b2b-b2c": {
       "codepoint": 61699,
@@ -77,6 +93,10 @@
     "internet-of-things": {
       "codepoint": 61723,
       "source": "src/internet-of-things.svg"
+    },
+    "mdm": {
+      "codepoint": 61746,
+      "source": "src/mdm.svg"
     },
     "operations": {
       "codepoint": 61705,
