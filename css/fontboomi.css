@@ -23,7 +23,9 @@
 [data-icon]:before { content: attr(data-icon); }
 
 [data-icon]:before,
+.fb-administrator:before,
 .fb-appreciate:before,
+.fb-architect:before,
 .fb-brainstorm:before,
 .fb-build:before,
 .fb-calendar:before,
@@ -33,13 +35,16 @@
 .fb-cloud-storage:before,
 .fb-communication:before,
 .fb-competition:before,
+.fb-developer:before,
 .fb-draw:before,
+.fb-edi:before,
 .fb-energy-b2b-b2c:before,
 .fb-energy-efficiency:before,
 .fb-engage:before,
 .fb-factory:before,
 .fb-interaction:before,
 .fb-internet-of-things:before,
+.fb-mdm:before,
 .fb-operations:before,
 .fb-partners:before,
 .fb-planning:before,
@@ -75,7 +80,9 @@
   font-smoothing: antialiased;
 }
 
+.fb-administrator:before { content: "\f12e"; }
 .fb-appreciate:before { content: "\f112"; }
+.fb-architect:before { content: "\f12f"; }
 .fb-brainstorm:before { content: "\f113"; }
 .fb-build:before { content: "\f129"; }
 .fb-calendar:before { content: "\f12d"; }
@@ -85,13 +92,16 @@
 .fb-cloud-storage:before { content: "\f12c"; }
 .fb-communication:before { content: "\f118"; }
 .fb-competition:before { content: "\f101"; }
+.fb-developer:before { content: "\f130"; }
 .fb-draw:before { content: "\f102"; }
+.fb-edi:before { content: "\f131"; }
 .fb-energy-b2b-b2c:before { content: "\f103"; }
 .fb-energy-efficiency:before { content: "\f104"; }
 .fb-engage:before { content: "\f106"; }
 .fb-factory:before { content: "\f119"; }
 .fb-interaction:before { content: "\f11a"; }
 .fb-internet-of-things:before { content: "\f11b"; }
+.fb-mdm:before { content: "\f132"; }
 .fb-operations:before { content: "\f109"; }
 .fb-partners:before { content: "\f10a"; }
 .fb-planning:before { content: "\f11c"; }
