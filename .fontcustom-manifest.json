@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "6dbfcebecddb03a01a043f924dca1e212d7e16d15fa47369973081d24afac584",
-    "current": "6dbfcebecddb03a01a043f924dca1e212d7e16d15fa47369973081d24afac584"
+    "previous": "47728e5e385ef67325b209c8d7ecd0f1e6314dc76eb942a65fb8c8d62c8b528c",
+    "current": "47728e5e385ef67325b209c8d7ecd0f1e6314dc76eb942a65fb8c8d62c8b528c"
   },
   "fonts": [
     "fonts/fontboomi.ttf",
@@ -13,6 +13,14 @@
     "administrator": {
       "codepoint": 61742,
       "source": "src/administrator.svg"
+    },
+    "announce": {
+      "codepoint": 61748,
+      "source": "src/announce.svg"
+    },
+    "api-interface": {
+      "codepoint": 61749,
+      "source": "src/api-interface.svg"
     },
     "appreciate": {
       "codepoint": 61714,
@@ -54,6 +62,10 @@
       "codepoint": 61720,
       "source": "src/communication.svg"
     },
+    "community": {
+      "codepoint": 61750,
+      "source": "src/community.svg"
+    },
     "competition": {
       "codepoint": 61697,
       "source": "src/competition.svg"
@@ -86,6 +98,14 @@
       "codepoint": 61721,
       "source": "src/factory.svg"
     },
+    "global-business": {
+      "codepoint": 61751,
+      "source": "src/global-business.svg"
+    },
+    "identity": {
+      "codepoint": 61752,
+      "source": "src/identity.svg"
+    },
     "interaction": {
       "codepoint": 61722,
       "source": "src/interaction.svg"
@@ -93,6 +113,10 @@
     "internet-of-things": {
       "codepoint": 61723,
       "source": "src/internet-of-things.svg"
+    },
+    "internet-of-things-cloud": {
+      "codepoint": 61753,
+      "source": "src/internet-of-things-cloud.svg"
     },
     "mdm": {
       "codepoint": 61746,
@@ -102,6 +126,10 @@
       "codepoint": 61705,
       "source": "src/operations.svg"
     },
+    "packaging": {
+      "codepoint": 61754,
+      "source": "src/packaging.svg"
+    },
     "partners": {
       "codepoint": 61706,
       "source": "src/partners.svg"
@@ -109,6 +137,10 @@
     "planning": {
       "codepoint": 61724,
       "source": "src/planning.svg"
+    },
+    "planning-chart": {
+      "codepoint": 61755,
+      "source": "src/planning-chart.svg"
     },
     "planning-sheet": {
       "codepoint": 61725,
@@ -121,6 +153,10 @@
     "presentations": {
       "codepoint": 61707,
       "source": "src/presentations.svg"
+    },
+    "product-development": {
+      "codepoint": 61756,
+      "source": "src/product-development.svg"
     },
     "product-release": {
       "codepoint": 61727,
@@ -161,6 +197,10 @@
     "team": {
       "codepoint": 61732,
       "source": "src/team.svg"
+    },
+    "team-leader": {
+      "codepoint": 61757,
+      "source": "src/team-leader.svg"
     },
     "testimonial": {
       "codepoint": 61733,
