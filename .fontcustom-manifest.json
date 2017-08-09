@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "47728e5e385ef67325b209c8d7ecd0f1e6314dc76eb942a65fb8c8d62c8b528c",
-    "current": "47728e5e385ef67325b209c8d7ecd0f1e6314dc76eb942a65fb8c8d62c8b528c"
+    "previous": "d854296bca3aacd2c105cb8e059efc4912bc070196af25a3b85a3bcc6ffd6ceb",
+    "current": "d854296bca3aacd2c105cb8e059efc4912bc070196af25a3b85a3bcc6ffd6ceb"
   },
   "fonts": [
     "fonts/fontboomi.ttf",
@@ -29,6 +29,10 @@
     "architect": {
       "codepoint": 61743,
       "source": "src/architect.svg"
+    },
+    "book": {
+      "codepoint": 61758,
+      "source": "src/book.svg"
     },
     "brainstorm": {
       "codepoint": 61715,
@@ -74,6 +78,10 @@
       "codepoint": 61744,
       "source": "src/developer.svg"
     },
+    "dollars": {
+      "codepoint": 61759,
+      "source": "src/dollars.svg"
+    },
     "draw": {
       "codepoint": 61698,
       "source": "src/draw.svg"
@@ -117,6 +125,10 @@
     "internet-of-things-cloud": {
       "codepoint": 61753,
       "source": "src/internet-of-things-cloud.svg"
+    },
+    "locations": {
+      "codepoint": 61760,
+      "source": "src/locations.svg"
     },
     "mdm": {
       "codepoint": 61746,
