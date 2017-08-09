@@ -28,6 +28,7 @@
 .fb-api-interface:before,
 .fb-appreciate:before,
 .fb-architect:before,
+.fb-book:before,
 .fb-brainstorm:before,
 .fb-build:before,
 .fb-calendar:before,
@@ -39,6 +40,7 @@
 .fb-community:before,
 .fb-competition:before,
 .fb-developer:before,
+.fb-dollars:before,
 .fb-draw:before,
 .fb-edi:before,
 .fb-energy-b2b-b2c:before,
@@ -50,6 +52,7 @@
 .fb-interaction:before,
 .fb-internet-of-things:before,
 .fb-internet-of-things-cloud:before,
+.fb-locations:before,
 .fb-mdm:before,
 .fb-operations:before,
 .fb-packaging:before,
@@ -96,6 +99,7 @@
 .fb-api-interface:before { content: "\f135"; }
 .fb-appreciate:before { content: "\f112"; }
 .fb-architect:before { content: "\f12f"; }
+.fb-book:before { content: "\f13e"; }
 .fb-brainstorm:before { content: "\f113"; }
 .fb-build:before { content: "\f129"; }
 .fb-calendar:before { content: "\f12d"; }
@@ -107,6 +111,7 @@
 .fb-community:before { content: "\f136"; }
 .fb-competition:before { content: "\f101"; }
 .fb-developer:before { content: "\f130"; }
+.fb-dollars:before { content: "\f13f"; }
 .fb-draw:before { content: "\f102"; }
 .fb-edi:before { content: "\f131"; }
 .fb-energy-b2b-b2c:before { content: "\f103"; }
@@ -118,6 +123,7 @@
 .fb-interaction:before { content: "\f11a"; }
 .fb-internet-of-things:before { content: "\f11b"; }
 .fb-internet-of-things-cloud:before { content: "\f139"; }
+.fb-locations:before { content: "\f140"; }
 .fb-mdm:before { content: "\f132"; }
 .fb-operations:before { content: "\f109"; }
 .fb-packaging:before { content: "\f13a"; }
