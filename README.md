@@ -6,7 +6,7 @@ Coming soon...
 
 ## Changelog
 
-- 2.7.0
+- [2.7.0](https://bitbucket.org/erikdmitchell/font-boomi/pull-requests/5/)
 - [2.6.0](https://bitbucket.org/erikdmitchell/font-boomi/pull-requests/4/)
 - [2.5.0](https://bitbucket.org/erikdmitchell/font-boomi/pull-requests/3/)
 - [2.4.0](https://bitbucket.org/erikdmitchell/font-boomi/pull-requests/2/)
