@@ -6,6 +6,7 @@
   font-family: "fontboomi";
   src: url("../fonts/fontboomi.eot");
   src: url("../fonts/fontboomi.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/fontboomi.woff2") format("woff2"),
        url("../fonts/fontboomi.woff") format("woff"),
        url("../fonts/fontboomi.ttf") format("truetype"),
        url("../fonts/fontboomi.svg#fontboomi") format("svg");
@@ -36,6 +37,7 @@
 .fb-cloud-distribution:before,
 .fb-cloud-outline:before,
 .fb-cloud-storage:before,
+.fb-comments:before,
 .fb-communication:before,
 .fb-community:before,
 .fb-competition:before,
@@ -46,6 +48,7 @@
 .fb-energy-b2b-b2c:before,
 .fb-energy-efficiency:before,
 .fb-engage:before,
+.fb-envelope:before,
 .fb-factory:before,
 .fb-global-business:before,
 .fb-identity:before,
@@ -107,6 +110,7 @@
 .fb-cloud-distribution:before { content: "\f12a"; }
 .fb-cloud-outline:before { content: "\f12b"; }
 .fb-cloud-storage:before { content: "\f12c"; }
+.fb-comments:before { content: "\f141"; }
 .fb-communication:before { content: "\f118"; }
 .fb-community:before { content: "\f136"; }
 .fb-competition:before { content: "\f101"; }
@@ -117,6 +121,7 @@
 .fb-energy-b2b-b2c:before { content: "\f103"; }
 .fb-energy-efficiency:before { content: "\f104"; }
 .fb-engage:before { content: "\f106"; }
+.fb-envelope:before { content: "\f142"; }
 .fb-factory:before { content: "\f119"; }
 .fb-global-business:before { content: "\f137"; }
 .fb-identity:before { content: "\f138"; }

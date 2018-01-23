@@ -1,13 +1,14 @@
 {
   "checksum": {
-    "previous": "d854296bca3aacd2c105cb8e059efc4912bc070196af25a3b85a3bcc6ffd6ceb",
-    "current": "d854296bca3aacd2c105cb8e059efc4912bc070196af25a3b85a3bcc6ffd6ceb"
+    "previous": "d007bc8a4c12db9bb4e94ce7c5f474ed90ad296b745653c35f529c9f845d1f98",
+    "current": "d007bc8a4c12db9bb4e94ce7c5f474ed90ad296b745653c35f529c9f845d1f98"
   },
   "fonts": [
     "fonts/fontboomi.ttf",
     "fonts/fontboomi.svg",
     "fonts/fontboomi.woff",
-    "fonts/fontboomi.eot"
+    "fonts/fontboomi.eot",
+    "fonts/fontboomi.woff2"
   ],
   "glyphs": {
     "administrator": {
@@ -62,6 +63,10 @@
       "codepoint": 61740,
       "source": "src/cloud-storage.svg"
     },
+    "comments": {
+      "codepoint": 61761,
+      "source": "src/comments.svg"
+    },
     "communication": {
       "codepoint": 61720,
       "source": "src/communication.svg"
@@ -101,6 +106,10 @@
     "engage": {
       "codepoint": 61702,
       "source": "src/engage.svg"
+    },
+    "envelope": {
+      "codepoint": 61762,
+      "source": "src/envelope.svg"
     },
     "factory": {
       "codepoint": 61721,
@@ -242,6 +251,8 @@
   "options": {
     "autowidth": false,
     "config": "fontcustom.yml",
+    "copyright": "",
+    "css3": false,
     "css_selector": ".fb-{{glyph}}",
     "debug": false,
     "font_ascent": 448,
