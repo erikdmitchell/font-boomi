@@ -49,12 +49,15 @@
 .fb-energy-efficiency:before,
 .fb-engage:before,
 .fb-envelope:before,
+.fb-facebook:before,
 .fb-factory:before,
 .fb-global-business:before,
 .fb-identity:before,
+.fb-instagram:before,
 .fb-interaction:before,
 .fb-internet-of-things:before,
 .fb-internet-of-things-cloud:before,
+.fb-linkedin:before,
 .fb-locations:before,
 .fb-mdm:before,
 .fb-operations:before,
@@ -81,8 +84,10 @@
 .fb-time-to-value:before,
 .fb-training-steps:before,
 .fb-transmission-tower:before,
+.fb-twitter:before,
 .fb-usability-evaluation:before,
-.fb-wireframe:before {
+.fb-wireframe:before,
+.fb-youtube-play:before {
   display: inline-block;
   font-family: "fontboomi";
   font-style: normal;
@@ -122,12 +127,15 @@
 .fb-energy-efficiency:before { content: "\f104"; }
 .fb-engage:before { content: "\f106"; }
 .fb-envelope:before { content: "\f142"; }
+.fb-facebook:before { content: "\f143"; }
 .fb-factory:before { content: "\f119"; }
 .fb-global-business:before { content: "\f137"; }
 .fb-identity:before { content: "\f138"; }
+.fb-instagram:before { content: "\f144"; }
 .fb-interaction:before { content: "\f11a"; }
 .fb-internet-of-things:before { content: "\f11b"; }
 .fb-internet-of-things-cloud:before { content: "\f139"; }
+.fb-linkedin:before { content: "\f145"; }
 .fb-locations:before { content: "\f140"; }
 .fb-mdm:before { content: "\f132"; }
 .fb-operations:before { content: "\f109"; }
@@ -154,5 +162,7 @@
 .fb-time-to-value:before { content: "\f10f"; }
 .fb-training-steps:before { content: "\f133"; }
 .fb-transmission-tower:before { content: "\f126"; }
+.fb-twitter:before { content: "\f146"; }
 .fb-usability-evaluation:before { content: "\f127"; }
 .fb-wireframe:before { content: "\f128"; }
+.fb-youtube-play:before { content: "\f147"; }

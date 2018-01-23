@@ -1,4 +1,4 @@
-# Font Boomi v2.7.0
+# Font Boomi v2.8.0
 
 ## License
 
@@ -6,6 +6,7 @@ Coming soon...
 
 ## Changelog
 
+- [2.8.0](https://bitbucket.org/erikdmitchell/font-boomi/pull-requests/6/)
 - [2.7.0](https://bitbucket.org/erikdmitchell/font-boomi/pull-requests/5/)
 - [2.6.0](https://bitbucket.org/erikdmitchell/font-boomi/pull-requests/4/)
 - [2.5.0](https://bitbucket.org/erikdmitchell/font-boomi/pull-requests/3/)

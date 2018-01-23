@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "d007bc8a4c12db9bb4e94ce7c5f474ed90ad296b745653c35f529c9f845d1f98",
-    "current": "d007bc8a4c12db9bb4e94ce7c5f474ed90ad296b745653c35f529c9f845d1f98"
+    "previous": "9535f7feffea960cb59c22e9faaf612eb61c8b2a85da193fa56a7fad861a65a9",
+    "current": "9535f7feffea960cb59c22e9faaf612eb61c8b2a85da193fa56a7fad861a65a9"
   },
   "fonts": [
     "fonts/fontboomi.ttf",
@@ -111,6 +111,10 @@
       "codepoint": 61762,
       "source": "src/envelope.svg"
     },
+    "facebook": {
+      "codepoint": 61763,
+      "source": "src/facebook.svg"
+    },
     "factory": {
       "codepoint": 61721,
       "source": "src/factory.svg"
@@ -123,6 +127,10 @@
       "codepoint": 61752,
       "source": "src/identity.svg"
     },
+    "instagram": {
+      "codepoint": 61764,
+      "source": "src/instagram.svg"
+    },
     "interaction": {
       "codepoint": 61722,
       "source": "src/interaction.svg"
@@ -134,6 +142,10 @@
     "internet-of-things-cloud": {
       "codepoint": 61753,
       "source": "src/internet-of-things-cloud.svg"
+    },
+    "linkedin": {
+      "codepoint": 61765,
+      "source": "src/linkedin.svg"
     },
     "locations": {
       "codepoint": 61760,
@@ -239,6 +251,10 @@
       "codepoint": 61734,
       "source": "src/transmission-tower.svg"
     },
+    "twitter": {
+      "codepoint": 61766,
+      "source": "src/twitter.svg"
+    },
     "usability-evaluation": {
       "codepoint": 61735,
       "source": "src/usability-evaluation.svg"
@@ -246,6 +262,10 @@
     "wireframe": {
       "codepoint": 61736,
       "source": "src/wireframe.svg"
+    },
+    "youtube-play": {
+      "codepoint": 61767,
+      "source": "src/youtube-play.svg"
     }
   },
   "options": {
