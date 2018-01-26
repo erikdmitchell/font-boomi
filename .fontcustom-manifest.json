@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "9535f7feffea960cb59c22e9faaf612eb61c8b2a85da193fa56a7fad861a65a9",
-    "current": "9535f7feffea960cb59c22e9faaf612eb61c8b2a85da193fa56a7fad861a65a9"
+    "previous": "ade7f435d68f4c68abdb80d40df798dba26530ac04fed48648011d801feb699e",
+    "current": "ade7f435d68f4c68abdb80d40df798dba26530ac04fed48648011d801feb699e"
   },
   "fonts": [
     "fonts/fontboomi.ttf",
@@ -23,6 +23,10 @@
       "codepoint": 61749,
       "source": "src/api-interface.svg"
     },
+    "application-authorization": {
+      "codepoint": 61769,
+      "source": "src/application-authorization.svg"
+    },
     "appreciate": {
       "codepoint": 61714,
       "source": "src/appreciate.svg"
@@ -30,6 +34,14 @@
     "architect": {
       "codepoint": 61743,
       "source": "src/architect.svg"
+    },
+    "atom": {
+      "codepoint": 61770,
+      "source": "src/atom.svg"
+    },
+    "authentication": {
+      "codepoint": 61771,
+      "source": "src/authentication.svg"
     },
     "book": {
       "codepoint": 61758,
@@ -79,6 +91,18 @@
       "codepoint": 61697,
       "source": "src/competition.svg"
     },
+    "computer-api-interface": {
+      "codepoint": 61772,
+      "source": "src/computer-api-interface.svg"
+    },
+    "connection": {
+      "codepoint": 61773,
+      "source": "src/connection.svg"
+    },
+    "data-science": {
+      "codepoint": 61774,
+      "source": "src/data-science.svg"
+    },
     "developer": {
       "codepoint": 61744,
       "source": "src/developer.svg"
@@ -90,6 +114,10 @@
     "draw": {
       "codepoint": 61698,
       "source": "src/draw.svg"
+    },
+    "dynamic-forms": {
+      "codepoint": 61775,
+      "source": "src/dynamic-forms.svg"
     },
     "edi": {
       "codepoint": 61745,
@@ -119,6 +147,14 @@
       "codepoint": 61721,
       "source": "src/factory.svg"
     },
+    "financial-report": {
+      "codepoint": 61776,
+      "source": "src/financial-report.svg"
+    },
+    "full-handling": {
+      "codepoint": 61777,
+      "source": "src/full-handling.svg"
+    },
     "global-business": {
       "codepoint": 61751,
       "source": "src/global-business.svg"
@@ -130,6 +166,10 @@
     "instagram": {
       "codepoint": 61764,
       "source": "src/instagram.svg"
+    },
+    "integration-pack": {
+      "codepoint": 61778,
+      "source": "src/integration-pack.svg"
     },
     "interaction": {
       "codepoint": 61722,
@@ -155,6 +195,18 @@
       "codepoint": 61746,
       "source": "src/mdm.svg"
     },
+    "mediation": {
+      "codepoint": 61779,
+      "source": "src/mediation.svg"
+    },
+    "network-secure-vault": {
+      "codepoint": 61780,
+      "source": "src/network-secure-vault.svg"
+    },
+    "office-building": {
+      "codepoint": 61781,
+      "source": "src/office-building.svg"
+    },
     "operations": {
       "codepoint": 61705,
       "source": "src/operations.svg"
@@ -166,6 +218,14 @@
     "partners": {
       "codepoint": 61706,
       "source": "src/partners.svg"
+    },
+    "partners-collaboration": {
+      "codepoint": 61782,
+      "source": "src/partners-collaboration.svg"
+    },
+    "partnership-cooperation": {
+      "codepoint": 61783,
+      "source": "src/partnership-cooperation.svg"
     },
     "planning": {
       "codepoint": 61724,
@@ -203,6 +263,10 @@
       "codepoint": 61708,
       "source": "src/publish.svg"
     },
+    "responsive-design": {
+      "codepoint": 61784,
+      "source": "src/responsive-design.svg"
+    },
     "sales-funnel": {
       "codepoint": 61729,
       "source": "src/sales-funnel.svg"
@@ -210,6 +274,22 @@
     "search": {
       "codepoint": 61709,
       "source": "src/search.svg"
+    },
+    "secure-login": {
+      "codepoint": 61785,
+      "source": "src/secure-login.svg"
+    },
+    "secure-payment": {
+      "codepoint": 61786,
+      "source": "src/secure-payment.svg"
+    },
+    "secured-backup": {
+      "codepoint": 61787,
+      "source": "src/secured-backup.svg"
+    },
+    "shield-protection": {
+      "codepoint": 61788,
+      "source": "src/shield-protection.svg"
     },
     "social": {
       "codepoint": 61710,
@@ -222,6 +302,10 @@
     "sync": {
       "codepoint": 61731,
       "source": "src/sync.svg"
+    },
+    "system-update": {
+      "codepoint": 61789,
+      "source": "src/system-update.svg"
     },
     "target": {
       "codepoint": 61713,
@@ -258,6 +342,14 @@
     "usability-evaluation": {
       "codepoint": 61735,
       "source": "src/usability-evaluation.svg"
+    },
+    "usage-dashboard": {
+      "codepoint": 61790,
+      "source": "src/usage-dashboard.svg"
+    },
+    "web-analytics": {
+      "codepoint": 61791,
+      "source": "src/web-analytics.svg"
     },
     "wireframe": {
       "codepoint": 61736,
