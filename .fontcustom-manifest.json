@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "ade7f435d68f4c68abdb80d40df798dba26530ac04fed48648011d801feb699e",
-    "current": "ade7f435d68f4c68abdb80d40df798dba26530ac04fed48648011d801feb699e"
+    "previous": "8407d5d85bd8715ff470946e328067657ed960e85dfa66d3290f6e464cd2e05b",
+    "current": "8407d5d85bd8715ff470946e328067657ed960e85dfa66d3290f6e464cd2e05b"
   },
   "fonts": [
     "fonts/fontboomi.ttf",
@@ -43,6 +43,10 @@
       "codepoint": 61771,
       "source": "src/authentication.svg"
     },
+    "blog": {
+      "codepoint": 61792,
+      "source": "src/blog.svg"
+    },
     "book": {
       "codepoint": 61758,
       "source": "src/book.svg"
@@ -54,6 +58,10 @@
     "build": {
       "codepoint": 61737,
       "source": "src/build.svg"
+    },
+    "business-paper": {
+      "codepoint": 61793,
+      "source": "src/business-paper.svg"
     },
     "calendar": {
       "codepoint": 61741,
@@ -99,6 +107,10 @@
       "codepoint": 61773,
       "source": "src/connection.svg"
     },
+    "daily-tasks-and-routine": {
+      "codepoint": 61794,
+      "source": "src/daily-tasks-and-routine.svg"
+    },
     "data-science": {
       "codepoint": 61774,
       "source": "src/data-science.svg"
@@ -138,6 +150,10 @@
     "envelope": {
       "codepoint": 61762,
       "source": "src/envelope.svg"
+    },
+    "events": {
+      "codepoint": 61795,
+      "source": "src/events.svg"
     },
     "facebook": {
       "codepoint": 61763,
