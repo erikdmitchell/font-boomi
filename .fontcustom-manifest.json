@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "8407d5d85bd8715ff470946e328067657ed960e85dfa66d3290f6e464cd2e05b",
-    "current": "8407d5d85bd8715ff470946e328067657ed960e85dfa66d3290f6e464cd2e05b"
+    "previous": "3d8a58a1d74c0a9a1e5646abf0d8dd7bd4be617de287a6c635968fa6fc32e8da",
+    "current": "3d8a58a1d74c0a9a1e5646abf0d8dd7bd4be617de287a6c635968fa6fc32e8da"
   },
   "fonts": [
     "fonts/fontboomi.ttf",
@@ -42,6 +42,10 @@
     "authentication": {
       "codepoint": 61771,
       "source": "src/authentication.svg"
+    },
+    "banking-financial-services": {
+      "codepoint": 61796,
+      "source": "src/banking-financial-services.svg"
     },
     "blog": {
       "codepoint": 61792,
@@ -103,6 +107,10 @@
       "codepoint": 61772,
       "source": "src/computer-api-interface.svg"
     },
+    "connect": {
+      "codepoint": 61797,
+      "source": "src/connect.svg"
+    },
     "connection": {
       "codepoint": 61773,
       "source": "src/connection.svg"
@@ -135,6 +143,10 @@
       "codepoint": 61745,
       "source": "src/edi.svg"
     },
+    "energy-and-utilities": {
+      "codepoint": 61798,
+      "source": "src/energy-and-utilities.svg"
+    },
     "energy-b2b-b2c": {
       "codepoint": 61699,
       "source": "src/energy-b2b-b2c.svg"
@@ -155,6 +167,10 @@
       "codepoint": 61795,
       "source": "src/events.svg"
     },
+    "exchange": {
+      "codepoint": 61799,
+      "source": "src/exchange.svg"
+    },
     "facebook": {
       "codepoint": 61763,
       "source": "src/facebook.svg"
@@ -167,6 +183,10 @@
       "codepoint": 61776,
       "source": "src/financial-report.svg"
     },
+    "flow": {
+      "codepoint": 61800,
+      "source": "src/flow.svg"
+    },
     "full-handling": {
       "codepoint": 61777,
       "source": "src/full-handling.svg"
@@ -174,6 +194,18 @@
     "global-business": {
       "codepoint": 61751,
       "source": "src/global-business.svg"
+    },
+    "healthcare-and-life-sciences": {
+      "codepoint": 61801,
+      "source": "src/healthcare-and-life sciences.svg"
+    },
+    "higher-education": {
+      "codepoint": 61802,
+      "source": "src/higher-education.svg"
+    },
+    "hub": {
+      "codepoint": 61803,
+      "source": "src/hub.svg"
     },
     "identity": {
       "codepoint": 61752,
@@ -211,6 +243,10 @@
       "codepoint": 61746,
       "source": "src/mdm.svg"
     },
+    "mediate": {
+      "codepoint": 61804,
+      "source": "src/mediate.svg"
+    },
     "mediation": {
       "codepoint": 61779,
       "source": "src/mediation.svg"
@@ -218,6 +254,10 @@
     "network-secure-vault": {
       "codepoint": 61780,
       "source": "src/network-secure-vault.svg"
+    },
+    "nonprofit": {
+      "codepoint": 61805,
+      "source": "src/nonprofit.svg"
     },
     "office-building": {
       "codepoint": 61781,
@@ -271,6 +311,10 @@
       "codepoint": 61727,
       "source": "src/product-release.svg"
     },
+    "professional-services": {
+      "codepoint": 61806,
+      "source": "src/professional-services.svg"
+    },
     "professional-skills": {
       "codepoint": 61728,
       "source": "src/professional-skills.svg"
@@ -282,6 +326,10 @@
     "responsive-design": {
       "codepoint": 61784,
       "source": "src/responsive-design.svg"
+    },
+    "retail": {
+      "codepoint": 61807,
+      "source": "src/retail.svg"
     },
     "sales-funnel": {
       "codepoint": 61729,
@@ -366,6 +414,10 @@
     "web-analytics": {
       "codepoint": 61791,
       "source": "src/web-analytics.svg"
+    },
+    "wholesale-and-distribution": {
+      "codepoint": 61808,
+      "source": "src/wholesale-and-distribution.svg"
     },
     "wireframe": {
       "codepoint": 61736,
