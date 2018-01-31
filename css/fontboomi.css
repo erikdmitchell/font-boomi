@@ -32,6 +32,7 @@
 .fb-architect:before,
 .fb-atom:before,
 .fb-authentication:before,
+.fb-banking-financial-services:before,
 .fb-blog:before,
 .fb-book:before,
 .fb-brainstorm:before,
@@ -47,6 +48,7 @@
 .fb-community:before,
 .fb-competition:before,
 .fb-computer-api-interface:before,
+.fb-connect:before,
 .fb-connection:before,
 .fb-daily-tasks-and-routine:before,
 .fb-data-science:before,
@@ -55,16 +57,22 @@
 .fb-draw:before,
 .fb-dynamic-forms:before,
 .fb-edi:before,
+.fb-energy-and-utilities:before,
 .fb-energy-b2b-b2c:before,
 .fb-energy-efficiency:before,
 .fb-engage:before,
 .fb-envelope:before,
 .fb-events:before,
+.fb-exchange:before,
 .fb-facebook:before,
 .fb-factory:before,
 .fb-financial-report:before,
+.fb-flow:before,
 .fb-full-handling:before,
 .fb-global-business:before,
+.fb-healthcare-and-life-sciences:before,
+.fb-higher-education:before,
+.fb-hub:before,
 .fb-identity:before,
 .fb-instagram:before,
 .fb-integration-pack:before,
@@ -74,8 +82,10 @@
 .fb-linkedin:before,
 .fb-locations:before,
 .fb-mdm:before,
+.fb-mediate:before,
 .fb-mediation:before,
 .fb-network-secure-vault:before,
+.fb-nonprofit:before,
 .fb-office-building:before,
 .fb-operations:before,
 .fb-packaging:before,
@@ -89,9 +99,11 @@
 .fb-presentations:before,
 .fb-product-development:before,
 .fb-product-release:before,
+.fb-professional-services:before,
 .fb-professional-skills:before,
 .fb-publish:before,
 .fb-responsive-design:before,
+.fb-retail:before,
 .fb-sales-funnel:before,
 .fb-search:before,
 .fb-secure-login:before,
@@ -113,6 +125,7 @@
 .fb-usability-evaluation:before,
 .fb-usage-dashboard:before,
 .fb-web-analytics:before,
+.fb-wholesale-and-distribution:before,
 .fb-wireframe:before,
 .fb-youtube-play:before {
   display: inline-block;
@@ -137,6 +150,7 @@
 .fb-architect:before { content: "\f12f"; }
 .fb-atom:before { content: "\f14a"; }
 .fb-authentication:before { content: "\f14b"; }
+.fb-banking-financial-services:before { content: "\f164"; }
 .fb-blog:before { content: "\f160"; }
 .fb-book:before { content: "\f13e"; }
 .fb-brainstorm:before { content: "\f113"; }
@@ -152,6 +166,7 @@
 .fb-community:before { content: "\f136"; }
 .fb-competition:before { content: "\f101"; }
 .fb-computer-api-interface:before { content: "\f14c"; }
+.fb-connect:before { content: "\f165"; }
 .fb-connection:before { content: "\f14d"; }
 .fb-daily-tasks-and-routine:before { content: "\f162"; }
 .fb-data-science:before { content: "\f14e"; }
@@ -160,16 +175,22 @@
 .fb-draw:before { content: "\f102"; }
 .fb-dynamic-forms:before { content: "\f14f"; }
 .fb-edi:before { content: "\f131"; }
+.fb-energy-and-utilities:before { content: "\f166"; }
 .fb-energy-b2b-b2c:before { content: "\f103"; }
 .fb-energy-efficiency:before { content: "\f104"; }
 .fb-engage:before { content: "\f106"; }
 .fb-envelope:before { content: "\f142"; }
 .fb-events:before { content: "\f163"; }
+.fb-exchange:before { content: "\f167"; }
 .fb-facebook:before { content: "\f143"; }
 .fb-factory:before { content: "\f119"; }
 .fb-financial-report:before { content: "\f150"; }
+.fb-flow:before { content: "\f168"; }
 .fb-full-handling:before { content: "\f151"; }
 .fb-global-business:before { content: "\f137"; }
+.fb-healthcare-and-life-sciences:before { content: "\f169"; }
+.fb-higher-education:before { content: "\f16a"; }
+.fb-hub:before { content: "\f16b"; }
 .fb-identity:before { content: "\f138"; }
 .fb-instagram:before { content: "\f144"; }
 .fb-integration-pack:before { content: "\f152"; }
@@ -179,8 +200,10 @@
 .fb-linkedin:before { content: "\f145"; }
 .fb-locations:before { content: "\f140"; }
 .fb-mdm:before { content: "\f132"; }
+.fb-mediate:before { content: "\f16c"; }
 .fb-mediation:before { content: "\f153"; }
 .fb-network-secure-vault:before { content: "\f154"; }
+.fb-nonprofit:before { content: "\f16d"; }
 .fb-office-building:before { content: "\f155"; }
 .fb-operations:before { content: "\f109"; }
 .fb-packaging:before { content: "\f13a"; }
@@ -194,9 +217,11 @@
 .fb-presentations:before { content: "\f10b"; }
 .fb-product-development:before { content: "\f13c"; }
 .fb-product-release:before { content: "\f11f"; }
+.fb-professional-services:before { content: "\f16e"; }
 .fb-professional-skills:before { content: "\f120"; }
 .fb-publish:before { content: "\f10c"; }
 .fb-responsive-design:before { content: "\f158"; }
+.fb-retail:before { content: "\f16f"; }
 .fb-sales-funnel:before { content: "\f121"; }
 .fb-search:before { content: "\f10d"; }
 .fb-secure-login:before { content: "\f159"; }
@@ -218,5 +243,6 @@
 .fb-usability-evaluation:before { content: "\f127"; }
 .fb-usage-dashboard:before { content: "\f15e"; }
 .fb-web-analytics:before { content: "\f15f"; }
+.fb-wholesale-and-distribution:before { content: "\f170"; }
 .fb-wireframe:before { content: "\f128"; }
 .fb-youtube-play:before { content: "\f147"; }

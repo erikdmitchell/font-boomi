@@ -1,4 +1,4 @@
-# Font Boomi v3.0.0
+# Font Boomi v3.1.0
 
 ## License
 
@@ -6,6 +6,7 @@ Coming soon...
 
 ## Changelog
 
+- [3.1.0](https://bitbucket.org/erikdmitchell/font-boomi/pull-requests/9/)
 - [3.0.0](https://bitbucket.org/erikdmitchell/font-boomi/pull-requests/8/)
 - [2.9.0](https://bitbucket.org/erikdmitchell/font-boomi/pull-requests/7/)
 - [2.8.0](https://bitbucket.org/erikdmitchell/font-boomi/pull-requests/6/)
@@ -38,4 +39,4 @@ And constructed with the following guidelines:
 For more information on SemVer, please visit http://semver.org.
 
 ## Author
-- @erikdmitchell
+@erikdmitchell
