@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="_x32_9_x5F_brain_x5F_process"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="60px" height="64px"
+	 viewBox="0 0 60 64" style="enable-background:new 0 0 60 64;" xml:space="preserve">
+<g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<path style="fill:none;stroke:#222829;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;" d="M30,17
+						c0-1.65,1.392-2.84,3-3l-3-6c-1.25,1.021-2.829,1.161-3.995-0.006C24.839,6.829,24.978,5.252,26,4l-6-3c-0.16,1.608-1.35,3-3,3
+						c-1.65,0-2.84-1.392-3-3L8,4c1.021,1.252,1.161,2.829-0.006,3.994C6.829,9.161,5.25,9.021,4,8c-1.121,1.686-2.588,3.945-3,6
+						c1.608,0.16,3,1.35,3,3s-1.392,2.84-3,3l3,6c1.25-1.021,2.829-1.161,3.994,0.006C9.161,27.171,9.021,28.75,8,30l6,3
+						c0.16-1.608,1.35-3,3-3c1.65,0,2.84,1.392,3,3l6-3c-1.022-1.25-1.161-2.829,0.005-3.994C27.171,24.839,28.75,24.979,30,26l3-6
+						C31.392,19.84,30,18.65,30,17z"/>
+				</g>
+				<circle style="fill:none;stroke:#222829;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;" cx="17" cy="17" r="7"/>
+			</g>
+			<path style="fill:none;stroke:#222829;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;" d="M18,64V52
+				c0-4.861-1.891-9.345-3.833-14"/>
+			<g>
+				<path style="fill:none;stroke:#222829;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;" d="M20.352,35.965
+					c0.323,1.385,0.869,2.682,1.596,3.856C22.485,39.315,23.204,39,24,39c1.656,0,3,1.344,3,3c0,0.796-0.315,1.515-0.821,2.052
+					c1.175,0.727,2.472,1.272,3.856,1.596C30.212,44.158,31.464,43,33,43c1.536,0,2.788,1.158,2.965,2.647
+					c1.385-0.323,2.682-0.869,3.857-1.596C39.315,43.515,39,42.796,39,42c0-1.656,1.344-3,3-3c0.796,0,1.515,0.315,2.052,0.821
+					c0.726-1.175,1.272-2.472,1.596-3.856C44.158,35.788,43,34.536,43,33c0-1.536,1.158-2.788,2.647-2.965
+					c-0.323-1.385-0.869-2.682-1.596-3.857C43.515,26.685,42.796,27,42,27c-1.656,0-3-1.344-3-3c0-0.796,0.315-1.515,0.821-2.052
+					c-1.175-0.726-2.472-1.272-3.857-1.596"/>
+				<circle style="fill:none;stroke:#222829;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;" cx="33" cy="33" r="4"/>
+			</g>
+			<path style="fill:none;stroke:#222829;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;" d="M29,1h3
+				c11.598,0,21,9.402,21,21l6,13v2h-6v9c0,3.313-2.687,6-6,6h-6v12"/>
+			
+				<line style="fill:none;stroke:#222829;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;" x1="41" y1="52" x2="38" y2="52"/>
+		</g>
+	</g>
+</g>
+</svg>
