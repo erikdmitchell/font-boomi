@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "3d8a58a1d74c0a9a1e5646abf0d8dd7bd4be617de287a6c635968fa6fc32e8da",
-    "current": "3d8a58a1d74c0a9a1e5646abf0d8dd7bd4be617de287a6c635968fa6fc32e8da"
+    "previous": "4bf7b90a4f216681a258fac3c5e3ccf5737455a560c940187295df53f9bdb211",
+    "current": "4bf7b90a4f216681a258fac3c5e3ccf5737455a560c940187295df53f9bdb211"
   },
   "fonts": [
     "fonts/fontboomi.ttf",
@@ -43,6 +43,10 @@
       "codepoint": 61771,
       "source": "src/authentication.svg"
     },
+    "awareness-and-perception": {
+      "codepoint": 61809,
+      "source": "src/awareness-and-perception.svg"
+    },
     "banking-financial-services": {
       "codepoint": 61796,
       "source": "src/banking-financial-services.svg"
@@ -54,6 +58,10 @@
     "book": {
       "codepoint": 61758,
       "source": "src/book.svg"
+    },
+    "brain-process": {
+      "codepoint": 61810,
+      "source": "src/brain-process.svg"
     },
     "brainstorm": {
       "codepoint": 61715,
@@ -115,9 +123,21 @@
       "codepoint": 61773,
       "source": "src/connection.svg"
     },
+    "consulting-manager": {
+      "codepoint": 61811,
+      "source": "src/consulting-manager.svg"
+    },
+    "crossroad-arrows": {
+      "codepoint": 61812,
+      "source": "src/crossroad-arrows.svg"
+    },
     "daily-tasks-and-routine": {
       "codepoint": 61794,
       "source": "src/daily-tasks-and-routine.svg"
+    },
+    "data-management": {
+      "codepoint": 61813,
+      "source": "src/data-management.svg"
     },
     "data-science": {
       "codepoint": 61774,
@@ -126,6 +146,14 @@
     "developer": {
       "codepoint": 61744,
       "source": "src/developer.svg"
+    },
+    "development-solutions": {
+      "codepoint": 61814,
+      "source": "src/development-solutions.svg"
+    },
+    "distribution-channels": {
+      "codepoint": 61815,
+      "source": "src/distribution-channels.svg"
     },
     "dollars": {
       "codepoint": 61759,
@@ -195,6 +223,10 @@
       "codepoint": 61751,
       "source": "src/global-business.svg"
     },
+    "global-network": {
+      "codepoint": 61816,
+      "source": "src/global-network.svg"
+    },
     "healthcare-and-life-sciences": {
       "codepoint": 61801,
       "source": "src/healthcare-and-life sciences.svg"
@@ -231,6 +263,14 @@
       "codepoint": 61753,
       "source": "src/internet-of-things-cloud.svg"
     },
+    "leadership-approach": {
+      "codepoint": 61817,
+      "source": "src/leadership-approach.svg"
+    },
+    "legal-documents": {
+      "codepoint": 61818,
+      "source": "src/legal-documents.svg"
+    },
     "linkedin": {
       "codepoint": 61765,
       "source": "src/linkedin.svg"
@@ -250,6 +290,10 @@
     "mediation": {
       "codepoint": 61779,
       "source": "src/mediation.svg"
+    },
+    "modeling-api": {
+      "codepoint": 61819,
+      "source": "src/modeling-api.svg"
     },
     "network-secure-vault": {
       "codepoint": 61780,
@@ -319,6 +363,10 @@
       "codepoint": 61728,
       "source": "src/professional-skills.svg"
     },
+    "project-flowchart": {
+      "codepoint": 61820,
+      "source": "src/project-flowchart.svg"
+    },
     "publish": {
       "codepoint": 61708,
       "source": "src/publish.svg"
@@ -382,6 +430,10 @@
     "team-leader": {
       "codepoint": 61757,
       "source": "src/team-leader.svg"
+    },
+    "technical-tools": {
+      "codepoint": 61821,
+      "source": "src/technical-tools.svg"
     },
     "testimonial": {
       "codepoint": 61733,
