@@ -32,9 +32,11 @@
 .fb-architect:before,
 .fb-atom:before,
 .fb-authentication:before,
+.fb-awareness-and-perception:before,
 .fb-banking-financial-services:before,
 .fb-blog:before,
 .fb-book:before,
+.fb-brain-process:before,
 .fb-brainstorm:before,
 .fb-build:before,
 .fb-business-paper:before,
@@ -50,9 +52,14 @@
 .fb-computer-api-interface:before,
 .fb-connect:before,
 .fb-connection:before,
+.fb-consulting-manager:before,
+.fb-crossroad-arrows:before,
 .fb-daily-tasks-and-routine:before,
+.fb-data-management:before,
 .fb-data-science:before,
 .fb-developer:before,
+.fb-development-solutions:before,
+.fb-distribution-channels:before,
 .fb-dollars:before,
 .fb-draw:before,
 .fb-dynamic-forms:before,
@@ -70,6 +77,7 @@
 .fb-flow:before,
 .fb-full-handling:before,
 .fb-global-business:before,
+.fb-global-network:before,
 .fb-healthcare-and-life-sciences:before,
 .fb-higher-education:before,
 .fb-hub:before,
@@ -79,11 +87,14 @@
 .fb-interaction:before,
 .fb-internet-of-things:before,
 .fb-internet-of-things-cloud:before,
+.fb-leadership-approach:before,
+.fb-legal-documents:before,
 .fb-linkedin:before,
 .fb-locations:before,
 .fb-mdm:before,
 .fb-mediate:before,
 .fb-mediation:before,
+.fb-modeling-api:before,
 .fb-network-secure-vault:before,
 .fb-nonprofit:before,
 .fb-office-building:before,
@@ -101,6 +112,7 @@
 .fb-product-release:before,
 .fb-professional-services:before,
 .fb-professional-skills:before,
+.fb-project-flowchart:before,
 .fb-publish:before,
 .fb-responsive-design:before,
 .fb-retail:before,
@@ -117,6 +129,7 @@
 .fb-target:before,
 .fb-team:before,
 .fb-team-leader:before,
+.fb-technical-tools:before,
 .fb-testimonial:before,
 .fb-time-to-value:before,
 .fb-training-steps:before,
@@ -150,9 +163,11 @@
 .fb-architect:before { content: "\f12f"; }
 .fb-atom:before { content: "\f14a"; }
 .fb-authentication:before { content: "\f14b"; }
+.fb-awareness-and-perception:before { content: "\f171"; }
 .fb-banking-financial-services:before { content: "\f164"; }
 .fb-blog:before { content: "\f160"; }
 .fb-book:before { content: "\f13e"; }
+.fb-brain-process:before { content: "\f172"; }
 .fb-brainstorm:before { content: "\f113"; }
 .fb-build:before { content: "\f129"; }
 .fb-business-paper:before { content: "\f161"; }
@@ -168,9 +183,14 @@
 .fb-computer-api-interface:before { content: "\f14c"; }
 .fb-connect:before { content: "\f165"; }
 .fb-connection:before { content: "\f14d"; }
+.fb-consulting-manager:before { content: "\f173"; }
+.fb-crossroad-arrows:before { content: "\f174"; }
 .fb-daily-tasks-and-routine:before { content: "\f162"; }
+.fb-data-management:before { content: "\f175"; }
 .fb-data-science:before { content: "\f14e"; }
 .fb-developer:before { content: "\f130"; }
+.fb-development-solutions:before { content: "\f176"; }
+.fb-distribution-channels:before { content: "\f177"; }
 .fb-dollars:before { content: "\f13f"; }
 .fb-draw:before { content: "\f102"; }
 .fb-dynamic-forms:before { content: "\f14f"; }
@@ -188,6 +208,7 @@
 .fb-flow:before { content: "\f168"; }
 .fb-full-handling:before { content: "\f151"; }
 .fb-global-business:before { content: "\f137"; }
+.fb-global-network:before { content: "\f178"; }
 .fb-healthcare-and-life-sciences:before { content: "\f169"; }
 .fb-higher-education:before { content: "\f16a"; }
 .fb-hub:before { content: "\f16b"; }
@@ -197,11 +218,14 @@
 .fb-interaction:before { content: "\f11a"; }
 .fb-internet-of-things:before { content: "\f11b"; }
 .fb-internet-of-things-cloud:before { content: "\f139"; }
+.fb-leadership-approach:before { content: "\f179"; }
+.fb-legal-documents:before { content: "\f17a"; }
 .fb-linkedin:before { content: "\f145"; }
 .fb-locations:before { content: "\f140"; }
 .fb-mdm:before { content: "\f132"; }
 .fb-mediate:before { content: "\f16c"; }
 .fb-mediation:before { content: "\f153"; }
+.fb-modeling-api:before { content: "\f17b"; }
 .fb-network-secure-vault:before { content: "\f154"; }
 .fb-nonprofit:before { content: "\f16d"; }
 .fb-office-building:before { content: "\f155"; }
@@ -219,6 +243,7 @@
 .fb-product-release:before { content: "\f11f"; }
 .fb-professional-services:before { content: "\f16e"; }
 .fb-professional-skills:before { content: "\f120"; }
+.fb-project-flowchart:before { content: "\f17c"; }
 .fb-publish:before { content: "\f10c"; }
 .fb-responsive-design:before { content: "\f158"; }
 .fb-retail:before { content: "\f16f"; }
@@ -235,6 +260,7 @@
 .fb-target:before { content: "\f111"; }
 .fb-team:before { content: "\f124"; }
 .fb-team-leader:before { content: "\f13d"; }
+.fb-technical-tools:before { content: "\f17d"; }
 .fb-testimonial:before { content: "\f125"; }
 .fb-time-to-value:before { content: "\f10f"; }
 .fb-training-steps:before { content: "\f133"; }
