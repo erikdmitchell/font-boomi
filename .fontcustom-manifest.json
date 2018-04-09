@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "4bf7b90a4f216681a258fac3c5e3ccf5737455a560c940187295df53f9bdb211",
-    "current": "4bf7b90a4f216681a258fac3c5e3ccf5737455a560c940187295df53f9bdb211"
+    "previous": "3f1a6445b322934bfefe7515f57eaf0acf82b76a71727e125bc75e9fb3bb165e",
+    "current": "3f1a6445b322934bfefe7515f57eaf0acf82b76a71727e125bc75e9fb3bb165e"
   },
   "fonts": [
     "fonts/fontboomi.ttf",
@@ -50,6 +50,10 @@
     "banking-financial-services": {
       "codepoint": 61796,
       "source": "src/banking-financial-services.svg"
+    },
+    "blank-paper-write": {
+      "codepoint": 61822,
+      "source": "src/blank-paper-write.svg"
     },
     "blog": {
       "codepoint": 61792,
@@ -462,6 +466,14 @@
     "usage-dashboard": {
       "codepoint": 61790,
       "source": "src/usage-dashboard.svg"
+    },
+    "user-engagement": {
+      "codepoint": 61823,
+      "source": "src/user-engagement.svg"
+    },
+    "user-predictions": {
+      "codepoint": 61824,
+      "source": "src/user-predictions.svg"
     },
     "web-analytics": {
       "codepoint": 61791,

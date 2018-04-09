@@ -1,4 +1,8 @@
-# Font Boomi v3.2.0
+# Font Boomi v3.3.0
+
+## View
+
+To view the font goto the `/docs/fontboomi-preview.html` page. It will provide an example of the icons and the font class to add.
 
 ## License
 
@@ -6,6 +10,7 @@ Coming soon...
 
 ## Changelog
 
+- [3.3.0](https://bitbucket.org/erikdmitchell/font-boomi/pull-requests/11/)
 - [3.2.0](https://bitbucket.org/erikdmitchell/font-boomi/pull-requests/10/)
 - [3.1.0](https://bitbucket.org/erikdmitchell/font-boomi/pull-requests/9/)
 - [3.0.0](https://bitbucket.org/erikdmitchell/font-boomi/pull-requests/8/)
