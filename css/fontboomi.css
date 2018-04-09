@@ -34,6 +34,7 @@
 .fb-authentication:before,
 .fb-awareness-and-perception:before,
 .fb-banking-financial-services:before,
+.fb-blank-paper-write:before,
 .fb-blog:before,
 .fb-book:before,
 .fb-brain-process:before,
@@ -137,6 +138,8 @@
 .fb-twitter:before,
 .fb-usability-evaluation:before,
 .fb-usage-dashboard:before,
+.fb-user-engagement:before,
+.fb-user-predictions:before,
 .fb-web-analytics:before,
 .fb-wholesale-and-distribution:before,
 .fb-wireframe:before,
@@ -165,6 +168,7 @@
 .fb-authentication:before { content: "\f14b"; }
 .fb-awareness-and-perception:before { content: "\f171"; }
 .fb-banking-financial-services:before { content: "\f164"; }
+.fb-blank-paper-write:before { content: "\f17e"; }
 .fb-blog:before { content: "\f160"; }
 .fb-book:before { content: "\f13e"; }
 .fb-brain-process:before { content: "\f172"; }
@@ -268,6 +272,8 @@
 .fb-twitter:before { content: "\f146"; }
 .fb-usability-evaluation:before { content: "\f127"; }
 .fb-usage-dashboard:before { content: "\f15e"; }
+.fb-user-engagement:before { content: "\f17f"; }
+.fb-user-predictions:before { content: "\f180"; }
 .fb-web-analytics:before { content: "\f15f"; }
 .fb-wholesale-and-distribution:before { content: "\f170"; }
 .fb-wireframe:before { content: "\f128"; }
