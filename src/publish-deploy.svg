@@ -10,32 +10,36 @@
 </style>
 <g id="Layer_1_1_">
 </g>
-<g id="Layer_3">
-	<g>
-		<defs>
-			<path id="SVGID_1_" d="M39.3,86.7c1.6-1.9,12.5-36.1,12.5-36.1L-8.5,62l-13.3-47.3L84.1-20.8l14.1,48.9l-3,47.5l-17.4,37.8
-				L38.2,85.9"/>
-		</defs>
-		<clipPath id="SVGID_2_">
-			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
-		</clipPath>
-		<g class="st0">
-			<circle class="st1" cx="42.7" cy="40.8" r="38.2"/>
-			<circle class="st1" cx="80.3" cy="40.8" r="11.7"/>
+<g>
+	<g id="Layer_3">
+		<g>
 			<g>
-				<g>
-					<line class="st2" x1="62.7" y1="40.8" x2="59" y2="40.8"/>
-					<line class="st3" x1="52.7" y1="40.8" x2="30.6" y2="40.8"/>
-					<line class="st2" x1="27.5" y1="40.8" x2="23.8" y2="40.8"/>
+				<defs>
+					<path id="SVGID_1_" d="M39.3,86.7c1.6-1.9,12.5-36.1,12.5-36.1L-8.5,62l-13.3-47.3L84.1-20.8l14.1,48.9l-3,47.5l-17.4,37.8
+						L38.2,85.9"/>
+				</defs>
+				<clipPath id="SVGID_2_">
+					<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+				</clipPath>
+				<g class="st0">
+					<circle class="st1" cx="42.7" cy="40.8" r="38.2"/>
+					<circle class="st1" cx="80.3" cy="40.8" r="11.7"/>
+					<g>
+						<g>
+							<line class="st2" x1="62.7" y1="40.8" x2="59" y2="40.8"/>
+							<line class="st3" x1="52.7" y1="40.8" x2="30.6" y2="40.8"/>
+							<line class="st2" x1="27.5" y1="40.8" x2="23.8" y2="40.8"/>
+						</g>
+					</g>
 				</g>
 			</g>
 		</g>
 	</g>
-</g>
-<g id="Layer_2_1_">
-	<g>
-		<polygon class="st1" points="38.9,57 32.5,81 14.9,63.5 		"/>
-		<line class="st1" x1="23.7" y1="72.2" x2="10.7" y2="85.2"/>
+	<g id="Layer_2_1_">
+		<g>
+			<polygon class="st1" points="38.9,57 32.5,81 14.9,63.5 			"/>
+			<line class="st1" x1="23.7" y1="72.2" x2="10.7" y2="85.2"/>
+		</g>
 	</g>
 </g>
 </svg>
