@@ -58,6 +58,7 @@
 .fb-daily-tasks-and-routine:before,
 .fb-data-management:before,
 .fb-data-science:before,
+.fb-define:before,
 .fb-developer:before,
 .fb-development-solutions:before,
 .fb-distribution-channels:before,
@@ -92,6 +93,7 @@
 .fb-legal-documents:before,
 .fb-linkedin:before,
 .fb-locations:before,
+.fb-manage:before,
 .fb-mdm:before,
 .fb-mediate:before,
 .fb-mediation:before,
@@ -115,6 +117,7 @@
 .fb-professional-skills:before,
 .fb-project-flowchart:before,
 .fb-publish:before,
+.fb-publish-deploy:before,
 .fb-responsive-design:before,
 .fb-retail:before,
 .fb-sales-funnel:before,
@@ -192,6 +195,7 @@
 .fb-daily-tasks-and-routine:before { content: "\f162"; }
 .fb-data-management:before { content: "\f175"; }
 .fb-data-science:before { content: "\f14e"; }
+.fb-define:before { content: "\f181"; }
 .fb-developer:before { content: "\f130"; }
 .fb-development-solutions:before { content: "\f176"; }
 .fb-distribution-channels:before { content: "\f177"; }
@@ -226,6 +230,7 @@
 .fb-legal-documents:before { content: "\f17a"; }
 .fb-linkedin:before { content: "\f145"; }
 .fb-locations:before { content: "\f140"; }
+.fb-manage:before { content: "\f182"; }
 .fb-mdm:before { content: "\f132"; }
 .fb-mediate:before { content: "\f16c"; }
 .fb-mediation:before { content: "\f153"; }
@@ -249,6 +254,7 @@
 .fb-professional-skills:before { content: "\f120"; }
 .fb-project-flowchart:before { content: "\f17c"; }
 .fb-publish:before { content: "\f10c"; }
+.fb-publish-deploy:before { content: "\f183"; }
 .fb-responsive-design:before { content: "\f158"; }
 .fb-retail:before { content: "\f16f"; }
 .fb-sales-funnel:before { content: "\f121"; }

@@ -1,4 +1,4 @@
-# Font Boomi v3.3.0
+# Font Boomi v3.4.0
 
 ## View
 
@@ -10,6 +10,7 @@ Coming soon...
 
 ## Changelog
 
+- [3.4.0](https://bitbucket.org/erikdmitchell/font-boomi/pull-requests/12/)
 - [3.3.0](https://bitbucket.org/erikdmitchell/font-boomi/pull-requests/11/)
 - [3.2.0](https://bitbucket.org/erikdmitchell/font-boomi/pull-requests/10/)
 - [3.1.0](https://bitbucket.org/erikdmitchell/font-boomi/pull-requests/9/)

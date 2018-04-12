@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "3f1a6445b322934bfefe7515f57eaf0acf82b76a71727e125bc75e9fb3bb165e",
-    "current": "3f1a6445b322934bfefe7515f57eaf0acf82b76a71727e125bc75e9fb3bb165e"
+    "previous": "62073a53b6b3271892853a41c1bbd0d78c832c714cce656e10c710849174a5b5",
+    "current": "62073a53b6b3271892853a41c1bbd0d78c832c714cce656e10c710849174a5b5"
   },
   "fonts": [
     "fonts/fontboomi.ttf",
@@ -147,6 +147,10 @@
       "codepoint": 61774,
       "source": "src/data-science.svg"
     },
+    "define": {
+      "codepoint": 61825,
+      "source": "src/define.svg"
+    },
     "developer": {
       "codepoint": 61744,
       "source": "src/developer.svg"
@@ -283,6 +287,10 @@
       "codepoint": 61760,
       "source": "src/locations.svg"
     },
+    "manage": {
+      "codepoint": 61826,
+      "source": "src/manage.svg"
+    },
     "mdm": {
       "codepoint": 61746,
       "source": "src/mdm.svg"
@@ -374,6 +382,10 @@
     "publish": {
       "codepoint": 61708,
       "source": "src/publish.svg"
+    },
+    "publish-deploy": {
+      "codepoint": 61827,
+      "source": "src/publish-deploy.svg"
     },
     "responsive-design": {
       "codepoint": 61784,
