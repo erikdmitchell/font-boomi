@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "62073a53b6b3271892853a41c1bbd0d78c832c714cce656e10c710849174a5b5",
-    "current": "62073a53b6b3271892853a41c1bbd0d78c832c714cce656e10c710849174a5b5"
+    "previous": "f01b1860c127344d3c6ac399490b736bbaa11758bf54d2a658bc781a6f94781e",
+    "current": "f01b1860c127344d3c6ac399490b736bbaa11758bf54d2a658bc781a6f94781e"
   },
   "fonts": [
     "fonts/fontboomi.ttf",
@@ -505,7 +505,7 @@
     }
   },
   "options": {
-    "autowidth": false,
+    "autowidth": true,
     "config": "fontcustom.yml",
     "copyright": "",
     "css3": false,
