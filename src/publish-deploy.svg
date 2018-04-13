@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 95 87" style="enable-background:new 0 0 95 87;" xml:space="preserve">
+	 viewBox="0 0 100 80" style="enable-background:new 0 0 100 80;" xml:space="preserve">
 <style type="text/css">
 	.st0{clip-path:url(#SVGID_2_);}
 	.st1{fill:none;stroke:#000000;stroke-width:2.7325;stroke-miterlimit:10;}
@@ -14,21 +14,23 @@
 	<g id="Layer_3">
 		<g>
 			<g>
-				<defs>
-					<path id="SVGID_1_" d="M39.3,86.7c1.6-1.9,12.5-36.1,12.5-36.1L-8.5,62l-13.3-47.3L84.1-20.8l14.1,48.9l-3,47.5l-17.4,37.8
-						L38.2,85.9"/>
-				</defs>
-				<clipPath id="SVGID_2_">
-					<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
-				</clipPath>
-				<g class="st0">
-					<circle class="st1" cx="42.7" cy="40.8" r="38.2"/>
-					<circle class="st1" cx="80.3" cy="40.8" r="11.7"/>
-					<g>
+				<g>
+					<defs>
+						<path id="SVGID_1_" d="M46.4,74c1.3-1.5,9.8-28.4,9.8-28.4l-47.4,9L-1.7,17.4l83.3-27.9l11.1,38.5l-2.4,37.4L76.7,95
+							L45.5,73.4"/>
+					</defs>
+					<clipPath id="SVGID_2_">
+						<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+					</clipPath>
+					<g class="st0">
+						<circle class="st1" cx="49.1" cy="37.9" r="30.1"/>
+						<circle class="st1" cx="78.7" cy="37.9" r="9.2"/>
 						<g>
-							<line class="st2" x1="62.7" y1="40.8" x2="59" y2="40.8"/>
-							<line class="st3" x1="52.7" y1="40.8" x2="30.6" y2="40.8"/>
-							<line class="st2" x1="27.5" y1="40.8" x2="23.8" y2="40.8"/>
+							<g>
+								<line class="st2" x1="64.8" y1="37.9" x2="61.9" y2="37.9"/>
+								<line class="st3" x1="56.9" y1="37.9" x2="39.5" y2="37.9"/>
+								<line class="st2" x1="37.1" y1="37.9" x2="34.2" y2="37.9"/>
+							</g>
 						</g>
 					</g>
 				</g>
@@ -37,8 +39,8 @@
 	</g>
 	<g id="Layer_2_1_">
 		<g>
-			<polygon class="st1" points="38.9,57 32.5,81 14.9,63.5 			"/>
-			<line class="st1" x1="23.7" y1="72.2" x2="10.7" y2="85.2"/>
+			<polygon class="st1" points="46.1,50.7 41,69.6 27.2,55.8 			"/>
+			<line class="st1" x1="34.1" y1="62.6" x2="23.9" y2="72.9"/>
 		</g>
 	</g>
 </g>

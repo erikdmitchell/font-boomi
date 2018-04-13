@@ -1,27 +1,24 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="_x30_5_x5F_partnership_x5F_cooperation"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="60px" height="64px"
-	 viewBox="0 0 60 64" style="enable-background:new 0 0 60 64;" xml:space="preserve">
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 80"
+	 style="enable-background:new 0 0 100 80;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#222829;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#222829;stroke-width:2;stroke-miterlimit:10;}
+</style>
 <g>
 	<g>
 		<g>
-			
-				<line style="fill:none;stroke:#222829;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;" x1="48" y1="64" x2="48" y2="41"/>
-			<circle style="fill:none;stroke:#222829;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;" cx="48" cy="6" r="5"/>
-			<path style="fill:none;stroke:#222829;stroke-width:2;stroke-miterlimit:10;" d="M30.175,29.891L38,18c0,0,2-3,6-3h8
-				c3.866,0,7,3.134,7,7v16h-4v26"/>
-			<line style="fill:none;stroke:#222829;stroke-width:2;stroke-miterlimit:10;" x1="48" y1="18" x2="48" y2="20"/>
-			<line style="fill:none;stroke:#222829;stroke-width:2;stroke-miterlimit:10;" x1="48" y1="22" x2="48" y2="24"/>
-			
-				<line style="fill:none;stroke:#222829;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;" x1="12" y1="64" x2="12" y2="41"/>
-			
-				<circle style="fill:none;stroke:#222829;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;" cx="11.894" cy="6" r="5"/>
-			<path style="fill:none;stroke:#222829;stroke-width:2;stroke-miterlimit:10;" d="M33,34L22,18c0,0-2-3-6.106-3h-8
-				C4.028,15,1,18.134,1,22v16h4v26"/>
-			<polyline style="fill:none;stroke:#222829;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;" points="19,64 19,26 
-				30,37 41,26 41,64 			"/>
+			<line class="st0" x1="66.8" y1="69.3" x2="66.8" y2="47.9"/>
+			<circle class="st0" cx="66.8" cy="15.3" r="4.7"/>
+			<path class="st1" d="M50.2,37.6l7.3-11.1c0,0,1.9-2.8,5.6-2.8h7.4c3.6,0,6.5,2.9,6.5,6.5v14.9h-3.7v24.2"/>
+			<line class="st1" x1="66.8" y1="26.5" x2="66.8" y2="28.4"/>
+			<line class="st1" x1="66.8" y1="30.2" x2="66.8" y2="32.1"/>
+			<line class="st0" x1="33.2" y1="69.3" x2="33.2" y2="47.9"/>
+			<circle class="st0" cx="33.1" cy="15.3" r="4.7"/>
+			<path class="st1" d="M52.8,41.4L42.6,26.5c0,0-1.9-2.8-5.7-2.8h-7.4c-3.6,0-6.4,2.9-6.4,6.5v14.9h3.7v24.2"/>
+			<polyline class="st0" points="39.8,69.3 39.8,33.9 50,44.2 60.2,33.9 60.2,69.3 			"/>
 		</g>
 	</g>
 </g>
