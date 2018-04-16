@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "90d9166eefe32f3fb0d860f2bfb5c25830cbcebdfbaf04906d20b88ce1d029b8",
-    "current": "90d9166eefe32f3fb0d860f2bfb5c25830cbcebdfbaf04906d20b88ce1d029b8"
+    "previous": "8a74f59e59d0aa34b5c53e544730f23594651377b326e76954e0c4211f439bce",
+    "current": "8a74f59e59d0aa34b5c53e544730f23594651377b326e76954e0c4211f439bce"
   },
   "fonts": [
     "fonts/fontboomi.ttf",
@@ -415,6 +415,10 @@
       "codepoint": 61787,
       "source": "src/secured-backup.svg"
     },
+    "sensory-perception": {
+      "codepoint": 61828,
+      "source": "src/sensory-perception.svg"
+    },
     "shield-protection": {
       "codepoint": 61788,
       "source": "src/shield-protection.svg"
@@ -446,6 +450,10 @@
     "team-leader": {
       "codepoint": 61757,
       "source": "src/team-leader.svg"
+    },
+    "tech-resources": {
+      "codepoint": 61829,
+      "source": "src/tech-resources.svg"
     },
     "technical-tools": {
       "codepoint": 61821,

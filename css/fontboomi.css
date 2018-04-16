@@ -125,6 +125,7 @@
 .fb-secure-login:before,
 .fb-secure-payment:before,
 .fb-secured-backup:before,
+.fb-sensory-perception:before,
 .fb-shield-protection:before,
 .fb-social:before,
 .fb-spreadsheet:before,
@@ -133,6 +134,7 @@
 .fb-target:before,
 .fb-team:before,
 .fb-team-leader:before,
+.fb-tech-resources:before,
 .fb-technical-tools:before,
 .fb-testimonial:before,
 .fb-time-to-value:before,
@@ -262,6 +264,7 @@
 .fb-secure-login:before { content: "\f159"; }
 .fb-secure-payment:before { content: "\f15a"; }
 .fb-secured-backup:before { content: "\f15b"; }
+.fb-sensory-perception:before { content: "\f184"; }
 .fb-shield-protection:before { content: "\f15c"; }
 .fb-social:before { content: "\f10e"; }
 .fb-spreadsheet:before { content: "\f122"; }
@@ -270,6 +273,7 @@
 .fb-target:before { content: "\f111"; }
 .fb-team:before { content: "\f124"; }
 .fb-team-leader:before { content: "\f13d"; }
+.fb-tech-resources:before { content: "\f185"; }
 .fb-technical-tools:before { content: "\f17d"; }
 .fb-testimonial:before { content: "\f125"; }
 .fb-time-to-value:before { content: "\f10f"; }
