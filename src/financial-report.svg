@@ -1,33 +1,37 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="_x30_7_x5F_financial_x5F_report"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="60px"
-	 viewBox="0 0 64 60" style="enable-background:new 0 0 64 60;" xml:space="preserve">
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 500 500"
+	 style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#222829;}
+</style>
 <g>
-	<g>
-		<g>
-			<line style="fill:none;stroke:#222829;stroke-width:2;stroke-miterlimit:10;" x1="32" y1="45" x2="32" y2="59"/>
-			<polyline style="fill:none;stroke:#222829;stroke-width:2;stroke-miterlimit:10;" points="43,45 48,58 48,59 			"/>
-			<polyline style="fill:none;stroke:#222829;stroke-width:2;stroke-miterlimit:10;" points="21,45 16,58 16,59 			"/>
-			<polyline style="fill:none;stroke:#222829;stroke-width:2;stroke-miterlimit:10;" points="59,12 59,41 5,41 5,12 			"/>
-			<polygon style="fill:none;stroke:#222829;stroke-width:2;stroke-miterlimit:10;" points="1,9 1,5 25,5 27,1 37,1 39,5 63,5 63,9 
-							"/>
-			<g>
-				<path style="fill:none;stroke:#222829;stroke-width:2;stroke-miterlimit:10;" d="M19,20c-3.866,0-7,3.134-7,7s3.134,7,7,7
-					c3.866,0,7-3.134,7-7h-7V20z"/>
-				<path style="fill:none;stroke:#222829;stroke-width:2;stroke-miterlimit:10;" d="M23,16v7h7C30,19.134,26.866,16,23,16z"/>
-			</g>
-			<line style="fill:none;stroke:#222829;stroke-width:2;stroke-miterlimit:10;" x1="29" y1="5" x2="35" y2="5"/>
-			<line style="fill:none;stroke:#222829;stroke-width:2;stroke-miterlimit:10;" x1="35" y1="23" x2="53" y2="23"/>
-			<line style="fill:none;stroke:#222829;stroke-width:2;stroke-miterlimit:10;" x1="35" y1="27" x2="53" y2="27"/>
-			<line style="fill:none;stroke:#222829;stroke-width:2;stroke-miterlimit:10;" x1="35" y1="31" x2="53" y2="31"/>
-			<line style="fill:none;stroke:#222829;stroke-width:2;stroke-miterlimit:10;" x1="39" y1="18" x2="41" y2="18"/>
-			<line style="fill:none;stroke:#222829;stroke-width:2;stroke-miterlimit:10;" x1="43" y1="18" x2="45" y2="18"/>
-			<line style="fill:none;stroke:#222829;stroke-width:2;stroke-miterlimit:10;" x1="47" y1="18" x2="49" y2="18"/>
-			<line style="fill:none;stroke:#222829;stroke-width:2;stroke-miterlimit:10;" x1="0" y1="59" x2="64" y2="59"/>
-		</g>
-		<polyline style="fill:none;stroke:#222829;stroke-width:2;stroke-miterlimit:10;" points="59,41 59,45 5,45 5,41 		"/>
-	</g>
+	<polyline class="st0" points="243,349.3 243,442 257,442 257,349.3 	"/>
+	<polygon class="st0" points="316.3,351.8 348.9,436.7 348.9,442 362.9,442 362.9,434.1 329.3,346.8 316.3,351.8 	"/>
+	<polygon class="st0" points="170.7,346.8 137.1,434.1 137.1,442 151.1,442 151.1,436.7 183.7,351.8 170.7,346.8 	"/>
+	<polygon class="st0" points="421.8,130.8 421.8,315.8 78.2,315.8 78.2,130.8 64.2,130.8 64.2,329.8 435.8,329.8 435.8,130.8 
+		421.8,130.8 	"/>
+	<polygon class="st0" points="44.8,111 51.8,111 51.8,91.5 208,91.5 221.2,65 278.8,65 292,91.5 448.2,91.5 448.2,104 44.8,104 
+		44.8,111 51.8,111 44.8,111 44.8,118 462.2,118 462.2,77.5 300.6,77.5 287.4,51 212.6,51 199.4,77.5 37.8,77.5 37.8,118 44.8,118 	
+		"/>
+	<path class="st0" d="M163.9,183.8v-7c-7.3,0-14.4,1.5-20.8,4.2c-9.6,4-17.7,10.8-23.4,19.3c-5.7,8.5-9.1,18.8-9.1,29.8
+		c0,7.3,1.5,14.4,4.2,20.8c4,9.6,10.8,17.7,19.3,23.4c8.5,5.7,18.8,9.1,29.8,9.1c7.3,0,14.4-1.5,20.8-4.2c9.6-4,17.7-10.8,23.4-19.3
+		c5.7-8.5,9.1-18.8,9.1-29.8v-7h-46.3l0-46.3h-7V183.8h-7v53.3h53.3v-7h-7c0,5.5-1.1,10.6-3.1,15.3c-3,7-8,13.1-14.2,17.3
+		c-6.3,4.2-13.8,6.7-22,6.7c-5.5,0-10.6-1.1-15.3-3.1c-7-3-13.1-8-17.3-14.2c-4.2-6.3-6.7-13.8-6.7-22c0-5.5,1.1-10.6,3.1-15.3
+		c3-7,8-13.1,14.2-17.3c6.3-4.2,13.8-6.7,22-6.7V183.8h-7H163.9z"/>
+	<path class="st0" d="M190.4,157.3h-7v53.3h60.3l0-7l0-0.2c0-7.3-1.5-14.3-4.2-20.7c-4.1-9.5-10.8-17.6-19.3-23.4
+		c-8.5-5.7-18.8-9.1-29.8-9.1h-7v7H190.4v7c5.4,0,10.6,1.1,15.3,3.1c7,3,13.1,8,17.3,14.2c4.2,6.3,6.7,13.7,6.7,21.8l0,0.2l7,0v-7
+		h-39.3v-39.3H190.4v7V157.3z"/>
+	<polyline class="st0" points="230.1,91.5 269.9,91.5 269.9,77.5 230.1,77.5 	"/>
+	<polyline class="st0" points="269.9,210.7 389,210.7 389,196.7 269.9,196.7 	"/>
+	<polyline class="st0" points="269.9,237.1 389,237.1 389,223.1 269.9,223.1 	"/>
+	<polyline class="st0" points="269.9,263.6 389,263.6 389,249.6 269.9,249.6 	"/>
+	<polyline class="st0" points="296.3,177.6 309.6,177.6 309.6,163.6 296.3,163.6 	"/>
+	<polyline class="st0" points="322.8,177.6 336.1,177.6 336.1,163.6 322.8,163.6 	"/>
+	<polyline class="st0" points="349.3,177.6 362.6,177.6 362.6,163.6 349.3,163.6 	"/>
+	<polyline class="st0" points="38.1,449 461.9,449 461.9,435 38.1,435 	"/>
+	<polygon class="st0" points="421.8,322.8 421.8,342.3 78.2,342.3 78.2,322.8 64.2,322.8 64.2,356.3 435.8,356.3 435.8,322.8 
+		421.8,322.8 	"/>
 </g>
 </svg>

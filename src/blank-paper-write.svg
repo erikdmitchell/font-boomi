@@ -1,27 +1,23 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="_x30_4_x5F_blank_x5F_paper_x5F_write"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="50px" height="64px"
-	 viewBox="0 0 50 64" style="enable-background:new 0 0 50 64;" xml:space="preserve">
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 500 500"
+	 style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#222829;}
+</style>
 <g>
-	<g>
-		<g>
-			<polyline style="fill:none;stroke:#222829;stroke-width:2;stroke-miterlimit:10;" points="45,36 45,59 22,59 			"/>
-			<polyline style="fill:none;stroke:#222829;stroke-width:2;stroke-miterlimit:10;" points="37,1 37,9 45,9 			"/>
-			<polyline style="fill:none;stroke:#222829;stroke-width:2;stroke-miterlimit:10;" points="7,59 1,59 1,1 37,1 45,9 45,20 			"/>
-			<g>
-				<line style="fill:none;stroke:#222829;stroke-width:2;stroke-miterlimit:10;" x1="17" y1="60" x2="12" y2="55"/>
-				
-					<polyline style="fill:none;stroke:#222829;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" points="
-					27,34 37,24 45,32 				"/>
-				
-					<polygon style="fill:none;stroke:#222829;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" points="
-					44,23 12,55 9,63 17,60 49,28 				"/>
-				
-					<line style="fill:none;stroke:#222829;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;" x1="22" y1="45" x2="27" y2="50"/>
-			</g>
-		</g>
-	</g>
+	<polygon class="st0" points="383.6,278.1 383.6,432.9 228.9,432.9 228.9,446.9 397.6,446.9 397.6,278.1 383.6,278.1 	"/>
+	<polygon class="st0" points="327.4,32 327.4,95.3 390.6,95.3 390.6,81.3 341.4,81.3 341.4,32 327.4,32 	"/>
+	<polygon class="st0" points="123.4,432.9 88.2,432.9 88.2,39 331.5,39 383.6,91.2 383.6,165.6 397.6,165.6 397.6,85.4 337.3,25 
+		74.2,25 74.2,446.9 123.4,446.9 	"/>
+	<polyline class="st0" points="198.7,442 163.6,406.8 153.6,416.6 188.7,451.8 	"/>
+	<path class="st0" d="M269.1,269l65.3-65.4l51.2,51.3c2.7,2.7,7.2,2.7,9.9,0c2.7-2.7,2.7-7.2,0-9.9l-56.2-56.3
+		c-1.3-1.3-3.1-2.1-5-2.1c-1.9,0-3.6,0.7-5,2.1l-70.3,70.4c-2.7,2.7-2.7,7.2,0,9.9C261.9,271.8,266.3,271.8,269.1,269L269.1,269z"/>
+	<path class="st0" d="M383.6,186.7l-4.9-4.9l-225,225c-0.7,0.7-1.3,1.6-1.6,2.5l-21.1,56.3c-1,2.6-0.3,5.5,1.6,7.4s4.8,2.6,7.4,1.6
+		l56.2-21.1c0.9-0.3,1.8-0.9,2.5-1.6l225.1-225c1.3-1.3,2.1-3.1,2.1-5c0-1.9-0.7-3.6-2.1-5l-35.2-35.2c-2.7-2.7-7.2-2.7-9.9,0
+		L383.6,186.7l-4.9,4.9l30.2,30.2l-219.1,219L149.5,456l15.2-40.5l223.9-223.9L383.6,186.7l-4.9,4.9L383.6,186.7z"/>
+	<path class="st0" d="M224,346.4l35.2,35.2c2.7,2.7,7.2,2.7,9.9,0s2.7-7.2,0-9.9l-35.2-35.2c-2.7-2.7-7.2-2.7-9.9,0
+		C221.2,339.2,221.2,343.6,224,346.4"/>
 </g>
 </svg>

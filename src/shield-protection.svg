@@ -1,34 +1,27 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="_x31_0_x5F_shield_x5F_protection"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="56px" height="64px"
-	 viewBox="0 0 56 64" style="enable-background:new 0 0 56 64;" xml:space="preserve">
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 500 500"
+	 style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#222829;stroke-width:14;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
 <g>
 	<g>
 		<g>
-			<path style="fill:none;stroke:#222829;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;" d="M28,1h1c0,0,6,9,13,9h13
-				v4c0,38-27,49-27,49S1,52,1,14v-4h13c7,0,13-9,13-9H28z"/>
-			<path style="fill:none;stroke:#222829;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;" d="M28,57c0,0,22-12,22-42
-				h-8c-10,0-14-7-14-7s-4,7-14,7H6C6,45,28,57,28,57z"/>
-			<path style="fill:none;stroke:#222829;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;" d="M18,15c0,27,10,42,10,42"
-				/>
-			<path style="fill:none;stroke:#222829;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;" d="M38,15c0,27-10,42-10,42"
-				/>
-			
-				<line style="fill:none;stroke:#222829;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;" x1="28" y1="18" x2="28" y2="20"/>
-			
-				<line style="fill:none;stroke:#222829;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;" x1="28" y1="14" x2="28" y2="16"/>
-			
-				<line style="fill:none;stroke:#222829;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;" x1="28" y1="22" x2="28" y2="24"/>
-			
-				<line style="fill:none;stroke:#222829;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;" x1="12" y1="18" x2="12" y2="20"/>
-			
-				<line style="fill:none;stroke:#222829;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;" x1="12" y1="22" x2="12" y2="24"/>
-			
-				<line style="fill:none;stroke:#222829;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;" x1="44" y1="18" x2="44" y2="20"/>
-			
-				<line style="fill:none;stroke:#222829;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;" x1="44" y1="22" x2="44" y2="24"/>
+			<path class="st0" d="M250,47h6.5c0,0,39.3,58.9,85.1,58.9h85.1v26.2C426.8,381,250,453,250,453S73.2,381,73.2,132.1v-26.2h85.1
+				c45.8,0,85.1-58.9,85.1-58.9H250z"/>
+			<path class="st0" d="M250,413.7c0,0,144.1-78.6,144.1-275h-52.4c-65.5,0-91.7-45.8-91.7-45.8s-26.2,45.8-91.7,45.8h-52.4
+				C105.9,335.1,250,413.7,250,413.7z"/>
+			<path class="st0" d="M184.5,138.7c0,176.8,65.5,275,65.5,275"/>
+			<path class="st0" d="M315.5,138.7c0,176.8-65.5,275-65.5,275"/>
+			<line class="st0" x1="250" y1="158.3" x2="250" y2="171.4"/>
+			<line class="st0" x1="250" y1="132.1" x2="250" y2="145.2"/>
+			<line class="st0" x1="250" y1="184.5" x2="250" y2="197.6"/>
+			<line class="st0" x1="145.2" y1="158.3" x2="145.2" y2="171.4"/>
+			<line class="st0" x1="145.2" y1="184.5" x2="145.2" y2="197.6"/>
+			<line class="st0" x1="354.8" y1="158.3" x2="354.8" y2="171.4"/>
+			<line class="st0" x1="354.8" y1="184.5" x2="354.8" y2="197.6"/>
 		</g>
 	</g>
 </g>
