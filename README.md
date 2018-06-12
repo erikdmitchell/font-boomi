@@ -6,7 +6,9 @@ To view the font goto the `/docs/fontboomi-preview.html` page. It will provide a
 
 ## License
 
-Coming soon...
+Standard End User License
+
+See [https://creativemarket.com/licenses](https://creativemarket.com/licenses) for more.
 
 ## Changelog
 
